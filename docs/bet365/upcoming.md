@@ -17,10 +17,10 @@ league.id/home.id/away.id returned from bet365/upcoming might be different than 
 
 Parameter | Required? | Description
 --------- | ------- | -----------
-sport_id | Yes | [Reference](#sport-id)
+sport_id | Yes | R-SportID
 league_id | No | useful when you want only one league
 day | No | format YYYYMMDD, eg: 20161201
-page | No | [Pager reference](#pager)
+page | No | R-Pager
 
 ## HTTP Response
 

@@ -18,4 +18,4 @@ raw | No | raw Bet365 body without parsing
 
 [bet365_inplay.json](samples/bet365_inplay.json)
 
-[Fields Explanation](bet365_fields.html)
+[Fields Explanation](bet365/fields.md)

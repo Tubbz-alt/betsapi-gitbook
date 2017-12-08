@@ -26,4 +26,4 @@ raw | No | raw Bet365 body without parsing
 [bet365_event.cricket.json](samples/bet365_event.cricket.json)
 [bet365_event.cricket.lineup.json](samples/bet365_event.cricket.lineup.json)
 
-[Fields Explanation](bet365_fields.html)
+[Fields Explanation](bet365/fields.md)

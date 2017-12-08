@@ -13,12 +13,12 @@ curl "https://api.betsapi.com/v1/events/upcoming?sport_id=1"
 
 Parameter | Required? | Description
 --------- | ------- | -----------
-sport_id | Yes | [Reference](#sport-id)
+sport_id | Yes | R-SportID
 league_id | No | useful when you want only one league
 team_id | No | useful when you want only one team
-cc | No | Eg: 'co' for Colombia [Reference](#countries)
+cc | No | Eg: 'co' for Colombia (R-Countries)
 day | No | format YYYYMMDD, eg: 20161201
-page | No | [Pager reference](#pager)
+page | No | R-Pager
 
 ## HTTP Response
 

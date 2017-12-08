@@ -21,4 +21,18 @@ since_time | No | Integer. add_time will be >= $since_time in results. Faster to
 
 [event_odds.json](samples/event_odds.json)
 
-[Odds Markets Reference](#odds-markets)
+## Odds Markets
+
+Error Value | Description
+---------- | -------
+1_1 | 1X2
+1_2 | Asian Handicap
+1_3 | O/U, Goal Line
+1_4 | Asian Corners
+1_5 | 1st Half Asian Handicap
+1_6 | 1st Half Goal Line
+1_7 | 1st Half Asian Corners
+1_8 | Half Time Result
+18_1 | Money Line
+18_2 | Spread
+18_3 | Total Points

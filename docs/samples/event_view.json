@@ -1,0 +1,230 @@
+{
+    "success": 1,
+    "results": [
+        {
+            "id": "196381",
+            "time": "1489813200",
+            "time_status": "1",
+            "league": {
+                "id": "895",
+                "name": "Japan J-League",
+                "cc": "jp"
+            },
+            "home": {
+                "id": "43733",
+                "name": "Shimizu S-Pulse",
+                "image_id": "3133",
+                "cc": "jp"
+            },
+            "away": {
+                "id": "5620",
+                "name": "Kashima Antlers",
+                "image_id": "3134",
+                "cc": "jp"
+            },
+            "timer": {
+                "tm": 76,
+                "ts": 12,
+                "tt": "1"
+            },
+            "scores": {
+                "2": {
+                    "home": "2",
+                    "away": "1"
+                },
+                "1": {
+                    "home": "1",
+                    "away": "0"
+                }
+            },
+            "stats": {
+                "corners": [
+                    "4",
+                    "4"
+                ],
+                "yellowcards": [
+                    "2",
+                    "2"
+                ],
+                "redcards": [
+                    "0",
+                    "0"
+                ],
+                "penalties": [
+                    "0",
+                    "0"
+                ],
+                "substitutions": [
+                    "0",
+                    "0"
+                ],
+                "attacks": [
+                    "60",
+                    "95"
+                ],
+                "dangerous_attacks": [
+                    "45",
+                    "70"
+                ],
+                "on_target": [
+                    "6",
+                    "3"
+                ],
+                "off_target": [
+                    "4",
+                    "4"
+                ],
+                "possession_rt": [
+                    "36",
+                    "64"
+                ]
+            },
+            "events": [
+                {
+                    "id": "33771415",
+                    "text": "0-0 Corners 00:00 - 09:59"
+                },
+                {
+                    "id": "33771416",
+                    "text": "0-0 Goals 00:00 - 09:59"
+                },
+                {
+                    "id": "33771559",
+                    "text": "18' - 1st Corner - Shimizu S-Pulse"
+                },
+                {
+                    "id": "33771616",
+                    "text": "1-0 Corners 10:00 - 19:59"
+                },
+                {
+                    "id": "33771617",
+                    "text": "0-0 Goals 10:00 - 19:59"
+                },
+                {
+                    "id": "33771794",
+                    "text": "0-0 Corners 20:00 - 29:59"
+                },
+                {
+                    "id": "33771795",
+                    "text": "0-0 Goals 20:00 - 29:59"
+                },
+                {
+                    "id": "33771952",
+                    "text": "41' - 1st Goal -   (Shimizu S-Pulse) -"
+                },
+                {
+                    "id": "33771960",
+                    "text": "0-0 Corners 30:00 - 39:59"
+                },
+                {
+                    "id": "33771961",
+                    "text": "0-0 Goals 30:00 - 39:59"
+                },
+                {
+                    "id": "33771996",
+                    "text": "43' - 2nd Corner - Shimizu S-Pulse"
+                },
+                {
+                    "id": "33772021",
+                    "text": "44' - 1st Yellow Card -  (Shimizu S-Pulse)"
+                },
+                {
+                    "id": "33772058",
+                    "text": "45+1' - 3rd Corner - Kashima Antlers"
+                },
+                {
+                    "id": "33772085",
+                    "text": "1-0: First Half score"
+                },
+                {
+                    "id": "33772369",
+                    "text": "51' - 4th Corner - Shimizu S-Pulse"
+                },
+                {
+                    "id": "33772370",
+                    "text": "51' - Race to 3 Corners - Shimizu S-Pulse"
+                },
+                {
+                    "id": "33772374",
+                    "text": "1-1 Corners 40:00 - 49:59"
+                },
+                {
+                    "id": "33772375",
+                    "text": "1-0 Goals 40:00 - 49:59"
+                },
+                {
+                    "id": "33772450",
+                    "text": "55' - 5th Corner - Kashima Antlers"
+                },
+                {
+                    "id": "33772465",
+                    "text": "55' - 6th Corner - Kashima Antlers"
+                },
+                {
+                    "id": "33772562",
+                    "text": "1-2 Corners 50:00 - 59:59"
+                },
+                {
+                    "id": "33772563",
+                    "text": "0-0 Goals 50:00 - 59:59"
+                },
+                {
+                    "id": "33772590",
+                    "text": "62' - 7th Corner - Kashima Antlers"
+                },
+                {
+                    "id": "33772672",
+                    "text": "67' - 2nd Yellow Card -  (Kashima Antlers)"
+                },
+                {
+                    "id": "33772708",
+                    "text": "69' - 3rd Yellow Card -  (Kashima Antlers)"
+                },
+                {
+                    "id": "33772715",
+                    "text": "69' - 4th Yellow Card -  (Shimizu S-Pulse)"
+                },
+                {
+                    "id": "33772731",
+                    "text": "70' - 8th Corner - Shimizu S-Pulse"
+                },
+                {
+                    "id": "33772745",
+                    "text": "1-1 Corners 60:00 - 69:59"
+                },
+                {
+                    "id": "33772746",
+                    "text": "0-0 Goals 60:00 - 69:59"
+                },
+                {
+                    "id": "33772751",
+                    "text": "71' - 2nd Goal -   (Shimizu S-Pulse) -"
+                },
+                {
+                    "id": "33772816",
+                    "text": "74' - 3rd Goal -   (Kashima Antlers) -"
+                }
+            ],
+            "extra": {
+                "away_manager": {
+                    "name": "Masatada Ishii",
+                    "cc": "jp"
+                },
+                "home_manager": {
+                    "name": "Shinji Kobayashi",
+                    "cc": "jp"
+                },
+                "home_pos": "6",
+                "away_pos": "7",
+                "referee": {
+                    "name": "Masuya Ueda",
+                    "cc": "jp"
+                },
+                "round": "4",
+                "pitch": "Good",
+                "stadium": "IAI Stadium Nihondaira",
+                "weather": "Good"
+            }
+        }
+    ]
+}

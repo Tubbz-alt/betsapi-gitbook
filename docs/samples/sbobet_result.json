@@ -1,0 +1,45 @@
+{
+    "success": 1,
+    "results": [
+        {
+            "id": "541434",
+            "sport_id": "1",
+            "time": "1511293500",
+            "time_status": "0",
+            "league": {
+                "id": "1351",
+                "name": "Scotland FA Cup",
+                "cc": "gb"
+            },
+            "home": {
+                "id": "5969",
+                "name": "Queen of South",
+                "image_id": "2368",
+                "cc": "gb"
+            },
+            "away": {
+                "id": "17630",
+                "name": "Montrose",
+                "image_id": "2386",
+                "cc": "gb"
+            },
+            "ss": null,
+            "extra": {
+                "away_manager": {
+                    "id": "59993",
+                    "name": "Stewart Petrie",
+                    "cc": "gb"
+                },
+                "home_manager": {
+                    "id": "1141",
+                    "name": "Gary Naysmith",
+                    "cc": "gb"
+                },
+                "stadium": "Palmerston Park",
+                "stadium_id": "3365"
+            },
+            "has_lineup": 0,
+            "bet365_id": "68904537"
+        }
+    ]
+}

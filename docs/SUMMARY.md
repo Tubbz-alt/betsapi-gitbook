@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Pricing](pricing.md)
+* [Pricing/Packages](pricing.md)
 
 ### Events API
 * [Inplay Events](events/inplay.md)

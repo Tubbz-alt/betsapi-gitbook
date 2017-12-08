@@ -13,8 +13,8 @@ curl "https://api.betsapi.com/v1/team?token=YOUR_TOKEN\
 
 Parameter | Required? | Description
 --------- | ------- | -----------
-sport_id | Yes | [Reference](#sport-id)
-page | No | [Pager reference](#pager)
+sport_id | Yes | R-SportID
+page | No | R-Pager
 
 ## HTTP Response
 

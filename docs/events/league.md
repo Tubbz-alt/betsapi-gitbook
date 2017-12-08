@@ -13,9 +13,9 @@ curl "https://api.betsapi.com/v1/league?token=YOUR_TOKEN\
 
 Parameter | Required? | Description
 --------- | ------- | -----------
-sport_id | Yes | [Reference](#sport-id)
-cc | No | Eg: 'co' for Colombia [Reference](#countries)
-page | No | [Pager reference](#pager)
+sport_id | Yes | R-SportID
+cc | No | Eg: 'co' for Colombia (R-Countries)
+page | No | R-Pager
 
 ## HTTP Response
 

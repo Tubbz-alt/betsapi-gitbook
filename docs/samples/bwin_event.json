@@ -1,0 +1,2111 @@
+{
+    "success": 1,
+    "results": [
+        {
+            "Id": 5927043,
+            "SportId": 4,
+            "SportName": "Football",
+            "RegionId": 60,
+            "RegionName": "Australia",
+            "LeagueId": 19591,
+            "LeagueName": "NPL - New South Wales",
+            "HomeTeam": "APIA Leichhardt Tigers",
+            "AwayTeam": "Hakoah Sydney City East",
+            "BetRadarId": 0,
+            "IsPreMatch": false,
+            "Date": "2017-03-19T05:45:00Z",
+            "Scoreboard": {
+                "Name": "Soccer_SBNG",
+                "Penalties": {
+                    "Visible": 1,
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "Value": 0,
+                                "id": 1,
+                                "PeriodId": 1,
+                                "Visible": true
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 254,
+                                "id": 254,
+                                "Value": 0
+                            },
+                            {
+                                "id": 255,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 255
+                            }
+                        ]
+                    },
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "Visible": true,
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 0
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "PeriodId": 254,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 254
+                            },
+                            {
+                                "Value": 0,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "id": "PNLT"
+                },
+                "RedCards": {
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "id": 1,
+                                "Value": 1,
+                                "Visible": true,
+                                "PeriodId": 1
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "id": 254,
+                                "Value": 1,
+                                "Visible": true,
+                                "PeriodId": 254
+                            },
+                            {
+                                "Value": 1,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "Visible": 1,
+                    "id": "RC",
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "PeriodId": 1,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 1
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "Value": 0,
+                                "id": 254,
+                                "PeriodId": 254,
+                                "Visible": true
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 255,
+                                "id": 255,
+                                "Value": 0
+                            }
+                        ]
+                    }
+                },
+                "YellowCards": {
+                    "id": "YC",
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "Visible": true,
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 0
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "PeriodId": 254,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 254
+                            },
+                            {
+                                "PeriodId": 255,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 255
+                            }
+                        ]
+                    },
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "PeriodId": 1,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 1
+                            },
+                            {
+                                "id": 253,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 253
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 254,
+                                "id": 254,
+                                "Value": 0
+                            },
+                            {
+                                "Value": 0,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "Visible": 1
+                },
+                "EventId": 5927043,
+                "PenaltiesControl": {
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "Value": 2,
+                                "id": 1,
+                                "PeriodId": 1
+                            },
+                            {
+                                "Value": 2,
+                                "id": 2,
+                                "PeriodId": 2
+                            },
+                            {
+                                "PeriodId": 3,
+                                "id": 3,
+                                "Value": 2
+                            },
+                            {
+                                "PeriodId": 4,
+                                "Value": 2,
+                                "id": 4
+                            },
+                            {
+                                "Value": 2,
+                                "id": 5,
+                                "PeriodId": 5
+                            }
+                        ]
+                    },
+                    "Visible": 1,
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 2
+                            },
+                            {
+                                "PeriodId": 2,
+                                "Value": 2,
+                                "id": 2
+                            },
+                            {
+                                "PeriodId": 3,
+                                "id": 3,
+                                "Value": 2
+                            },
+                            {
+                                "PeriodId": 4,
+                                "Value": 2,
+                                "id": 4
+                            },
+                            {
+                                "PeriodId": 5,
+                                "id": 5,
+                                "Value": 2
+                            }
+                        ]
+                    },
+                    "Id": "PC"
+                },
+                "BookieTicker": null,
+                "Score": {
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "Visible": true,
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 2
+                            },
+                            {
+                                "id": 3,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 3
+                            },
+                            {
+                                "id": 5,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 5
+                            },
+                            {
+                                "Value": 0,
+                                "id": 7,
+                                "PeriodId": 7,
+                                "Visible": true
+                            },
+                            {
+                                "id": 9,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 9
+                            },
+                            {
+                                "id": 253,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 253
+                            },
+                            {
+                                "id": 254,
+                                "Value": 2,
+                                "Visible": true,
+                                "PeriodId": 254
+                            },
+                            {
+                                "Value": 2,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "id": "G",
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "id": 1,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 1
+                            },
+                            {
+                                "PeriodId": 3,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 3
+                            },
+                            {
+                                "PeriodId": 5,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 5
+                            },
+                            {
+                                "Value": 0,
+                                "id": 7,
+                                "PeriodId": 7,
+                                "Visible": true
+                            },
+                            {
+                                "PeriodId": 9,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 9
+                            },
+                            {
+                                "id": 253,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 253
+                            },
+                            {
+                                "id": 254,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 254
+                            },
+                            {
+                                "Value": 0,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "Visible": 1
+                },
+                "Messages": {
+                    "Items": [
+                        {
+                            "Ordinal": 0,
+                            "id": "B9DBF679",
+                            "MessageType": 245,
+                            "Content": "1st Half added time - 1 minute",
+                            "Timer": "45:07"
+                        },
+                        {
+                            "Ordinal": 0,
+                            "Content": "Goal for APIA Leichhardt Tigers: 2-0",
+                            "id": "C8187B54",
+                            "MessageType": 255,
+                            "Timer": "44:17"
+                        },
+                        {
+                            "Ordinal": 0,
+                            "id": "3BD8FF2F",
+                            "MessageType": 255,
+                            "Content": "Goal for APIA Leichhardt Tigers: 1-0",
+                            "Timer": "41:40"
+                        },
+                        {
+                            "Ordinal": 0,
+                            "id": "3D938BA6",
+                            "MessageType": 252,
+                            "Content": "7th Corner to APIA Leichhardt Tigers",
+                            "Timer": "40:50"
+                        },
+                        {
+                            "Ordinal": 0,
+                            "id": "E3D1C026",
+                            "Content": "6th Corner to APIA Leichhardt Tigers",
+                            "MessageType": 252,
+                            "Timer": "37:45"
+                        },
+                        {
+                            "id": "70071277",
+                            "MessageType": 252,
+                            "Content": "5th Corner to APIA Leichhardt Tigers",
+                            "Ordinal": 0,
+                            "Timer": "29:19"
+                        },
+                        {
+                            "Timer": "24:26",
+                            "id": "B9B34B88",
+                            "MessageType": 254,
+                            "Content": "1st Red card to Hakoah Sydney City East",
+                            "Ordinal": 0
+                        },
+                        {
+                            "Timer": "21:56",
+                            "id": "7D2440E2",
+                            "Content": "4th Corner to APIA Leichhardt Tigers",
+                            "MessageType": 252,
+                            "Ordinal": 0
+                        },
+                        {
+                            "Timer": "19:28",
+                            "id": "2D7179F1",
+                            "Content": "3rd Corner to APIA Leichhardt Tigers",
+                            "MessageType": 252,
+                            "Ordinal": 0
+                        },
+                        {
+                            "Ordinal": 0,
+                            "id": "E8FEF2E5",
+                            "MessageType": 252,
+                            "Content": "2nd Corner to APIA Leichhardt Tigers",
+                            "Timer": "11:13"
+                        },
+                        {
+                            "Content": "1st Corner to Hakoah Sydney City East",
+                            "id": "19838C2B",
+                            "MessageType": 252,
+                            "Ordinal": 0,
+                            "Timer": "04:39"
+                        },
+                        {
+                            "Ordinal": 0,
+                            "id": "D24714E2",
+                            "MessageType": 1,
+                            "Content": "1st Half",
+                            "Timer": "00:00"
+                        }
+                    ]
+                },
+                "PlayerInfo": {
+                    "ColorsAvailable": 1,
+                    "Players": [
+                        {
+                            "Visible": 1,
+                            "TeamName": "APIA Leichhardt Tigers",
+                            "ShortsColor": "#00ffff",
+                            "ShirtColor": "#800000",
+                            "id": "01"
+                        },
+                        {
+                            "TeamName": "Hakoah Sydney City East",
+                            "Visible": 1,
+                            "ShortsColor": "#0000ff",
+                            "ShirtColor": "#0000ff",
+                            "id": "02"
+                        }
+                    ]
+                },
+                "FreeKicks": {
+                    "Visible": 0,
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "PeriodId": 1,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 1
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "Value": 0,
+                                "id": 254,
+                                "PeriodId": 254,
+                                "Visible": true
+                            },
+                            {
+                                "Value": 0,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "Visible": true,
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 0
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 254,
+                                "id": 254,
+                                "Value": 0
+                            },
+                            {
+                                "PeriodId": 255,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 255
+                            }
+                        ]
+                    },
+                    "id": "FK"
+                },
+                "GoalKicks": {
+                    "Visible": 0,
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "id": 1,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 1
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "id": 254,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 254
+                            },
+                            {
+                                "Value": 0,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "id": 1,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 1
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "Value": 0,
+                                "id": 254,
+                                "PeriodId": 254,
+                                "Visible": true
+                            },
+                            {
+                                "id": 255,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 255
+                            }
+                        ]
+                    },
+                    "id": "GK"
+                },
+                "ThrowIns": {
+                    "id": "TI",
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "id": 1,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 1
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 254,
+                                "id": 254,
+                                "Value": 0
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 255,
+                                "id": 255,
+                                "Value": 0
+                            }
+                        ]
+                    },
+                    "Visible": 0,
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "Value": 0,
+                                "id": 1,
+                                "PeriodId": 1,
+                                "Visible": true
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 254,
+                                "id": 254,
+                                "Value": 0
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 255,
+                                "id": 255,
+                                "Value": 0
+                            }
+                        ]
+                    }
+                },
+                "Corners": {
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "Visible": true,
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 6
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "PeriodId": 254,
+                                "Visible": true,
+                                "Value": 6,
+                                "id": 254
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 255,
+                                "id": 255,
+                                "Value": 6
+                            }
+                        ]
+                    },
+                    "id": "CRN",
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "Visible": true,
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 1
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "PeriodId": 254,
+                                "Visible": true,
+                                "Value": 1,
+                                "id": 254
+                            },
+                            {
+                                "PeriodId": 255,
+                                "Visible": true,
+                                "Value": 1,
+                                "id": 255
+                            }
+                        ]
+                    },
+                    "Visible": 1
+                },
+                "Offsides": {
+                    "id": "OFSD",
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "Value": 0,
+                                "id": 1,
+                                "PeriodId": 1,
+                                "Visible": true
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "Value": 0,
+                                "id": 254,
+                                "PeriodId": 254,
+                                "Visible": true
+                            },
+                            {
+                                "id": 255,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 255
+                            }
+                        ]
+                    },
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "Value": 0,
+                                "id": 1,
+                                "PeriodId": 1,
+                                "Visible": true
+                            },
+                            {
+                                "Value": 0,
+                                "id": 253,
+                                "PeriodId": 253,
+                                "Visible": true
+                            },
+                            {
+                                "PeriodId": 254,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 254
+                            },
+                            {
+                                "id": 255,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 255
+                            }
+                        ]
+                    },
+                    "Visible": 0
+                },
+                "UpdateId": "7b956a2a-b861-44a2-9bed-9fce0cd55004",
+                "Timer": {
+                    "ReferenceDate": 1489902545000,
+                    "Visible": 1,
+                    "Seconds": 0,
+                    "Running": 1
+                },
+                "Period": {
+                    "Visible": 1,
+                    "Id": 1,
+                    "ParentPeriod": 0
+                },
+                "SportId": 4,
+                "Substitutions": {
+                    "Team1": {
+                        "Counters": [
+                            {
+                                "id": 1,
+                                "Value": 0,
+                                "Visible": true,
+                                "PeriodId": 1
+                            },
+                            {
+                                "Visible": true,
+                                "PeriodId": 253,
+                                "id": 253,
+                                "Value": 0
+                            },
+                            {
+                                "PeriodId": 254,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 254
+                            },
+                            {
+                                "PeriodId": 255,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 255
+                            }
+                        ]
+                    },
+                    "id": "SBST",
+                    "Team2": {
+                        "Counters": [
+                            {
+                                "Visible": true,
+                                "PeriodId": 1,
+                                "id": 1,
+                                "Value": 0
+                            },
+                            {
+                                "PeriodId": 253,
+                                "Visible": true,
+                                "Value": 0,
+                                "id": 253
+                            },
+                            {
+                                "Value": 0,
+                                "id": 254,
+                                "PeriodId": 254,
+                                "Visible": true
+                            },
+                            {
+                                "Value": 0,
+                                "id": 255,
+                                "PeriodId": 255,
+                                "Visible": true
+                            }
+                        ]
+                    },
+                    "Visible": 1
+                }
+            },
+            "updated_at": "1489905323",
+            "Markets": [
+                {
+                    "Name": "Match Result",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "MarketOrder": 0,
+                    "IsMainbook": false,
+                    "GameTemplateId": 17,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/177971518",
+                    "Id": 177971518,
+                    "Results": [
+                        {
+                            "Self": "4\/19591\/5927043\/177971518\/567974196",
+                            "Name": "APIA Leichhardt Tigers",
+                            "Visible": true,
+                            "GameTemplateId": 17,
+                            "Odds": 1.01,
+                            "Id": 567974196
+                        },
+                        {
+                            "Name": "X",
+                            "Self": "4\/19591\/5927043\/177971518\/567974197",
+                            "Id": 567974197,
+                            "Odds": 9,
+                            "GameTemplateId": 17,
+                            "Visible": true
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/177971518\/567974198",
+                            "Name": "Hakoah Sydney City East",
+                            "Visible": true,
+                            "GameTemplateId": 17,
+                            "Odds": 101,
+                            "Id": 567974198
+                        }
+                    ],
+                    "IsMain": true,
+                    "Visible": false
+                },
+                {
+                    "Name": "Double Chance",
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "MarketOrder": 41,
+                    "IsMainbook": false,
+                    "GameTemplateId": 3187,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/177971536",
+                    "Id": 177971536,
+                    "Results": [
+                        {
+                            "Id": 567974242,
+                            "GameTemplateId": 3187,
+                            "Odds": 1.01,
+                            "Visible": true,
+                            "Name": "APIA Leichhardt Tigers or X",
+                            "Self": "4\/19591\/5927043\/177971536\/567974242"
+                        },
+                        {
+                            "Id": 567974243,
+                            "Visible": true,
+                            "GameTemplateId": 3187,
+                            "Odds": 101,
+                            "Name": "X or Hakoah Sydney City East",
+                            "Self": "4\/19591\/5927043\/177971536\/567974243"
+                        },
+                        {
+                            "Name": "APIA Leichhardt Tigers or Hakoah Sydney City East",
+                            "Self": "4\/19591\/5927043\/177971536\/567974244",
+                            "Id": 567974244,
+                            "Visible": true,
+                            "Odds": 1.01,
+                            "GameTemplateId": 3187
+                        }
+                    ],
+                    "Visible": false,
+                    "IsMain": false
+                },
+                {
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/177971550",
+                    "Id": 177971550,
+                    "Visible": true,
+                    "IsMain": false,
+                    "Results": [
+                        {
+                            "Id": 567974273,
+                            "Visible": true,
+                            "GameTemplateId": 11086,
+                            "Odds": 3.25,
+                            "Name": "Yes",
+                            "Self": "4\/19591\/5927043\/177971550\/567974273"
+                        },
+                        {
+                            "Id": 567974274,
+                            "Visible": true,
+                            "Odds": 1.3,
+                            "GameTemplateId": 11086,
+                            "Name": "No",
+                            "Self": "4\/19591\/5927043\/177971550\/567974274"
+                        }
+                    ],
+                    "Name": "Team 2 to Score",
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "MarketOrder": 55,
+                    "GameTemplateId": 11086,
+                    "IsMainbook": false
+                },
+                {
+                    "Id": 177971553,
+                    "Results": [
+                        {
+                            "GameTemplateId": 2196,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 567974279,
+                            "Self": "4\/19591\/5927043\/177971553\/567974279",
+                            "Name": "No goal"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/177971553\/567974280",
+                            "Name": "Exactly 1 Goal ",
+                            "GameTemplateId": 2196,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 567974280
+                        },
+                        {
+                            "Id": 567974281,
+                            "Odds": 7.5,
+                            "GameTemplateId": 2196,
+                            "Visible": true,
+                            "Name": "Exactly 2 Goals",
+                            "Self": "4\/19591\/5927043\/177971553\/567974281"
+                        },
+                        {
+                            "Name": "Exactly 3 Goals",
+                            "Self": "4\/19591\/5927043\/177971553\/567974282",
+                            "Id": 567974282,
+                            "Odds": 4,
+                            "GameTemplateId": 2196,
+                            "Visible": true
+                        },
+                        {
+                            "Name": "Exactly 4 Goals",
+                            "Self": "4\/19591\/5927043\/177971553\/567974283",
+                            "Id": 567974283,
+                            "GameTemplateId": 2196,
+                            "Odds": 3.4,
+                            "Visible": true
+                        },
+                        {
+                            "Id": 567974284,
+                            "GameTemplateId": 2196,
+                            "Odds": 4.2,
+                            "Visible": true,
+                            "Name": "Exactly 5 Goals",
+                            "Self": "4\/19591\/5927043\/177971553\/567974284"
+                        },
+                        {
+                            "Name": "Exactly 6 Goals",
+                            "Self": "4\/19591\/5927043\/177971553\/567974285",
+                            "Id": 567974285,
+                            "Odds": 6.5,
+                            "GameTemplateId": 2196,
+                            "Visible": true
+                        },
+                        {
+                            "Id": 567974286,
+                            "GameTemplateId": 2196,
+                            "Odds": 12.5,
+                            "Visible": true,
+                            "Name": "Exactly 7 Goals",
+                            "Self": "4\/19591\/5927043\/177971553\/567974286"
+                        },
+                        {
+                            "Name": "8 or more Goals",
+                            "Self": "4\/19591\/5927043\/177971553\/567974287",
+                            "Id": 567974287,
+                            "Odds": 18.5,
+                            "GameTemplateId": 2196,
+                            "Visible": true
+                        }
+                    ],
+                    "IsMain": false,
+                    "Visible": true,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/177971553",
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "MarketOrder": 58,
+                    "IsMainbook": false,
+                    "GameTemplateId": 2196,
+                    "Name": "Total Goals - Exact"
+                },
+                {
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/177971554",
+                    "Id": 177971554,
+                    "Results": [
+                        {
+                            "GameTemplateId": 20590,
+                            "Odds": 3.25,
+                            "Visible": true,
+                            "Id": 567974288,
+                            "Self": "4\/19591\/5927043\/177971554\/567974288",
+                            "Name": "1-0, 2-0 or 3-0"
+                        },
+                        {
+                            "Name": "0-1, 0-2 or 0-3",
+                            "Self": "4\/19591\/5927043\/177971554\/567974289",
+                            "Id": 567974289,
+                            "Visible": false,
+                            "GameTemplateId": 20590,
+                            "Odds": 1
+                        },
+                        {
+                            "Name": "4-0, 5-0 or 6-0",
+                            "Self": "4\/19591\/5927043\/177971554\/567974290",
+                            "Id": 567974290,
+                            "Visible": true,
+                            "GameTemplateId": 20590,
+                            "Odds": 2.25
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/177971554\/567974291",
+                            "Name": "0-4, 0-5 or 0-6",
+                            "Visible": false,
+                            "GameTemplateId": 20590,
+                            "Odds": 1,
+                            "Id": 567974291
+                        },
+                        {
+                            "Id": 567974292,
+                            "Odds": 5.75,
+                            "GameTemplateId": 20590,
+                            "Visible": true,
+                            "Name": "2-1, 3-1 or 4-1",
+                            "Self": "4\/19591\/5927043\/177971554\/567974292"
+                        },
+                        {
+                            "GameTemplateId": 20590,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 567974293,
+                            "Self": "4\/19591\/5927043\/177971554\/567974293",
+                            "Name": "1-2, 1-3 or 1-4"
+                        },
+                        {
+                            "Name": "3-2, 4-2, 4-3 or 5-1",
+                            "Self": "4\/19591\/5927043\/177971554\/567974294",
+                            "Id": 567974294,
+                            "Visible": true,
+                            "Odds": 12.5,
+                            "GameTemplateId": 20590
+                        },
+                        {
+                            "Name": "2-3, 2-4, 3-4 or 1-5",
+                            "Self": "4\/19591\/5927043\/177971554\/567974295",
+                            "Id": 567974295,
+                            "GameTemplateId": 20590,
+                            "Odds": 251,
+                            "Visible": true
+                        },
+                        {
+                            "Id": 567974296,
+                            "Visible": true,
+                            "Odds": 8.25,
+                            "GameTemplateId": 20590,
+                            "Name": "Team 1 to win by any other Score",
+                            "Self": "4\/19591\/5927043\/177971554\/567974296"
+                        },
+                        {
+                            "Name": "Team 2 to win by any other score",
+                            "Self": "4\/19591\/5927043\/177971554\/567974297",
+                            "Id": 567974297,
+                            "GameTemplateId": 20590,
+                            "Odds": 251,
+                            "Visible": true
+                        },
+                        {
+                            "Name": "Draw",
+                            "Self": "4\/19591\/5927043\/177971554\/567974298",
+                            "Id": 567974298,
+                            "Visible": true,
+                            "Odds": 9,
+                            "GameTemplateId": 20590
+                        }
+                    ],
+                    "IsMain": false,
+                    "Visible": true,
+                    "Name": "Multiple Correct Score",
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "GameTemplateId": 20590,
+                    "IsMainbook": false,
+                    "MarketOrder": 60
+                },
+                {
+                    "Name": "Match Result and Both Teams to Score",
+                    "MarketOrder": 71,
+                    "GameTemplateId": 24392,
+                    "IsMainbook": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "Self": "4\/19591\/5927043\/177971556",
+                    "ResultOrder": 0,
+                    "Results": [
+                        {
+                            "Name": "Team 1 to win and both teams to score",
+                            "Self": "4\/19591\/5927043\/177971556\/567974325",
+                            "Id": 567974325,
+                            "Visible": true,
+                            "GameTemplateId": 24392,
+                            "Odds": 3.25
+                        },
+                        {
+                            "Id": 567974326,
+                            "Visible": true,
+                            "Odds": 101,
+                            "GameTemplateId": 24392,
+                            "Name": "Team 2 to win and both teams to score",
+                            "Self": "4\/19591\/5927043\/177971556\/567974326"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/177971556\/567974327",
+                            "Name": "Team 1 to win to nil",
+                            "Visible": true,
+                            "GameTemplateId": 24392,
+                            "Odds": 1.3,
+                            "Id": 567974327
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/177971556\/567974328",
+                            "Name": "Team 2 to win to nil",
+                            "GameTemplateId": 24392,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 567974328
+                        },
+                        {
+                            "Name": "Both teams not to score",
+                            "Self": "4\/19591\/5927043\/177971556\/567974329",
+                            "Id": 567974329,
+                            "Odds": 1,
+                            "GameTemplateId": 24392,
+                            "Visible": false
+                        },
+                        {
+                            "Id": 567974330,
+                            "Visible": true,
+                            "GameTemplateId": 24392,
+                            "Odds": 9,
+                            "Name": "Both teams to score and the match to end in a draw",
+                            "Self": "4\/19591\/5927043\/177971556\/567974330"
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false,
+                    "Id": 177971556
+                },
+                {
+                    "Name": "Total Goal Bands (0-4+)",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "GameTemplateId": 27531,
+                    "MarketOrder": 72,
+                    "IsMainbook": false,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/177971557",
+                    "Id": 177971557,
+                    "Results": [
+                        {
+                            "GameTemplateId": 27531,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 567974331,
+                            "Self": "4\/19591\/5927043\/177971557\/567974331",
+                            "Name": "0-1"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/177971557\/567974332",
+                            "Name": "2-3",
+                            "Visible": true,
+                            "GameTemplateId": 27531,
+                            "Odds": 2.9,
+                            "Id": 567974332
+                        },
+                        {
+                            "Visible": true,
+                            "Odds": 1.36,
+                            "GameTemplateId": 27531,
+                            "Id": 567974333,
+                            "Self": "4\/19591\/5927043\/177971557\/567974333",
+                            "Name": "4+"
+                        }
+                    ],
+                    "IsMain": false,
+                    "Visible": true
+                },
+                {
+                    "Name": "Total Goals - Over\/Under",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "GameTemplateId": 1791,
+                    "MarketOrder": 9,
+                    "IsMainbook": false,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179867",
+                    "Id": 178179867,
+                    "Visible": true,
+                    "IsMain": false,
+                    "Results": [
+                        {
+                            "Odds": 2.1,
+                            "GameTemplateId": 1791,
+                            "Visible": true,
+                            "Id": 568553651,
+                            "Self": "4\/19591\/5927043\/178179867\/568553651",
+                            "Name": "Over 4,5"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179867\/568553652",
+                            "Name": "Under 4,5",
+                            "GameTemplateId": 1791,
+                            "Odds": 1.65,
+                            "Visible": true,
+                            "Id": 568553652
+                        }
+                    ]
+                },
+                {
+                    "Name": "Total Goals - Over\/Under",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "MarketOrder": 8,
+                    "GameTemplateId": 8933,
+                    "IsMainbook": false,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179887",
+                    "Id": 178179887,
+                    "Visible": true,
+                    "IsMain": false,
+                    "Results": [
+                        {
+                            "Visible": true,
+                            "Odds": 1.36,
+                            "GameTemplateId": 8933,
+                            "Id": 568553705,
+                            "Self": "4\/19591\/5927043\/178179887\/568553705",
+                            "Name": "Over 3,5"
+                        },
+                        {
+                            "Id": 568553706,
+                            "GameTemplateId": 8933,
+                            "Odds": 2.9,
+                            "Visible": true,
+                            "Name": "Under 3,5",
+                            "Self": "4\/19591\/5927043\/178179887\/568553706"
+                        }
+                    ]
+                },
+                {
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179893",
+                    "Id": 178179893,
+                    "Visible": true,
+                    "IsMain": false,
+                    "Results": [
+                        {
+                            "Self": "4\/19591\/5927043\/178179893\/568553720",
+                            "Name": "No goal",
+                            "Odds": 1.3,
+                            "GameTemplateId": 4727,
+                            "Visible": true,
+                            "Id": 568553720
+                        },
+                        {
+                            "GameTemplateId": 4727,
+                            "Odds": 3.7,
+                            "Visible": true,
+                            "Id": 568553721,
+                            "Self": "4\/19591\/5927043\/178179893\/568553721",
+                            "Name": "1"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179893\/568553722",
+                            "Name": "2",
+                            "Visible": true,
+                            "GameTemplateId": 4727,
+                            "Odds": 17,
+                            "Id": 568553722
+                        },
+                        {
+                            "Name": "3 or more",
+                            "Self": "4\/19591\/5927043\/178179893\/568553723",
+                            "Id": 568553723,
+                            "Odds": 101,
+                            "GameTemplateId": 4727,
+                            "Visible": true
+                        }
+                    ],
+                    "Name": "Total Goals Team 2 - Exact",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "IsMainbook": false,
+                    "GameTemplateId": 4727,
+                    "MarketOrder": 54
+                },
+                {
+                    "Name": "Total Goal Bands (0-6+)",
+                    "MarketOrder": 74,
+                    "GameTemplateId": 27535,
+                    "IsMainbook": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "Self": "4\/19591\/5927043\/178179901",
+                    "ResultOrder": 0,
+                    "Results": [
+                        {
+                            "Id": 568553742,
+                            "Odds": 2.9,
+                            "GameTemplateId": 27535,
+                            "Visible": true,
+                            "Name": "0-3",
+                            "Self": "4\/19591\/5927043\/178179901\/568553742"
+                        },
+                        {
+                            "Visible": true,
+                            "GameTemplateId": 27535,
+                            "Odds": 2,
+                            "Id": 568553743,
+                            "Self": "4\/19591\/5927043\/178179901\/568553743",
+                            "Name": "4-5"
+                        },
+                        {
+                            "Name": "6+",
+                            "Self": "4\/19591\/5927043\/178179901\/568553744",
+                            "Id": 568553744,
+                            "GameTemplateId": 27535,
+                            "Odds": 3.8,
+                            "Visible": true
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false,
+                    "Id": 178179901
+                },
+                {
+                    "Name": "Total Goals - Over\/Under",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "GameTemplateId": 173,
+                    "IsMainbook": false,
+                    "MarketOrder": 7,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179899",
+                    "Id": 178179899,
+                    "Visible": true,
+                    "IsMain": false,
+                    "Results": [
+                        {
+                            "GameTemplateId": 173,
+                            "Odds": 1.06,
+                            "Visible": true,
+                            "Id": 568553738,
+                            "Self": "4\/19591\/5927043\/178179899\/568553738",
+                            "Name": "Over 2,5"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179899\/568553739",
+                            "Name": "Under 2,5",
+                            "Visible": true,
+                            "Odds": 7.5,
+                            "GameTemplateId": 173,
+                            "Id": 568553739
+                        }
+                    ]
+                },
+                {
+                    "Name": "Total Goals Team 1 - Exact",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "GameTemplateId": 4726,
+                    "MarketOrder": 50,
+                    "IsMainbook": false,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179924",
+                    "Id": 178179924,
+                    "IsMain": false,
+                    "Visible": true,
+                    "Results": [
+                        {
+                            "Name": "No goal",
+                            "Self": "4\/19591\/5927043\/178179924\/568553796",
+                            "Id": 568553796,
+                            "Visible": false,
+                            "Odds": 1,
+                            "GameTemplateId": 4726
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179924\/568553797",
+                            "Name": "1",
+                            "Visible": false,
+                            "GameTemplateId": 4726,
+                            "Odds": 1,
+                            "Id": 568553797
+                        },
+                        {
+                            "Name": "2",
+                            "Self": "4\/19591\/5927043\/178179924\/568553798",
+                            "Id": 568553798,
+                            "Visible": true,
+                            "GameTemplateId": 4726,
+                            "Odds": 5.5
+                        },
+                        {
+                            "Odds": 1.08,
+                            "GameTemplateId": 4726,
+                            "Visible": true,
+                            "Id": 568553799,
+                            "Self": "4\/19591\/5927043\/178179924\/568553799",
+                            "Name": "3 or more"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Correct Score (Regular Time)",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "MarketOrder": 59,
+                    "GameTemplateId": 19193,
+                    "IsMainbook": false,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179943",
+                    "Id": 178179943,
+                    "IsMain": false,
+                    "Visible": true,
+                    "Results": [
+                        {
+                            "Self": "4\/19591\/5927043\/178179943\/568553862",
+                            "Name": "0-0",
+                            "Visible": false,
+                            "GameTemplateId": 19193,
+                            "Odds": 1,
+                            "Id": 568553862
+                        },
+                        {
+                            "GameTemplateId": 19193,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 568553863,
+                            "Self": "4\/19591\/5927043\/178179943\/568553863",
+                            "Name": "1-0"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179943\/568553864",
+                            "Name": "1-1",
+                            "GameTemplateId": 19193,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 568553864
+                        },
+                        {
+                            "GameTemplateId": 19193,
+                            "Odds": 1,
+                            "Visible": false,
+                            "Id": 568553865,
+                            "Self": "4\/19591\/5927043\/178179943\/568553865",
+                            "Name": "0-1"
+                        },
+                        {
+                            "Id": 568553866,
+                            "Visible": true,
+                            "GameTemplateId": 19193,
+                            "Odds": 7.5,
+                            "Name": "2-0",
+                            "Self": "4\/19591\/5927043\/178179943\/568553866"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179943\/568553867",
+                            "Name": "2-1",
+                            "GameTemplateId": 19193,
+                            "Odds": 18,
+                            "Visible": true,
+                            "Id": 568553867
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179943\/568553868",
+                            "Name": "2-2",
+                            "Visible": true,
+                            "GameTemplateId": 19193,
+                            "Odds": 151,
+                            "Id": 568553868
+                        },
+                        {
+                            "Odds": 1,
+                            "GameTemplateId": 19193,
+                            "Visible": false,
+                            "Id": 568553869,
+                            "Self": "4\/19591\/5927043\/178179943\/568553869",
+                            "Name": "1-2"
+                        },
+                        {
+                            "Visible": false,
+                            "Odds": 1,
+                            "GameTemplateId": 19193,
+                            "Id": 568553870,
+                            "Self": "4\/19591\/5927043\/178179943\/568553870",
+                            "Name": "0-2"
+                        },
+                        {
+                            "Visible": true,
+                            "Odds": 4.25,
+                            "GameTemplateId": 19193,
+                            "Id": 568553871,
+                            "Self": "4\/19591\/5927043\/178179943\/568553871",
+                            "Name": "3-0"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179943\/568553872",
+                            "Name": "3-1",
+                            "Visible": true,
+                            "Odds": 10.5,
+                            "GameTemplateId": 19193,
+                            "Id": 568553872
+                        },
+                        {
+                            "Name": "3-2",
+                            "Self": "4\/19591\/5927043\/178179943\/568553873",
+                            "Id": 568553873,
+                            "GameTemplateId": 19193,
+                            "Odds": 36,
+                            "Visible": true
+                        },
+                        {
+                            "Visible": true,
+                            "GameTemplateId": 19193,
+                            "Odds": 251,
+                            "Id": 568553874,
+                            "Self": "4\/19591\/5927043\/178179943\/568553874",
+                            "Name": "3-3"
+                        },
+                        {
+                            "Name": "2-3",
+                            "Self": "4\/19591\/5927043\/178179943\/568553875",
+                            "Id": 568553875,
+                            "Odds": 251,
+                            "GameTemplateId": 19193,
+                            "Visible": true
+                        },
+                        {
+                            "Name": "1-3",
+                            "Self": "4\/19591\/5927043\/178179943\/568553876",
+                            "Id": 568553876,
+                            "Visible": false,
+                            "GameTemplateId": 19193,
+                            "Odds": 1
+                        },
+                        {
+                            "Odds": 1,
+                            "GameTemplateId": 19193,
+                            "Visible": false,
+                            "Id": 568553877,
+                            "Self": "4\/19591\/5927043\/178179943\/568553877",
+                            "Name": "0-3"
+                        },
+                        {
+                            "Odds": 4,
+                            "GameTemplateId": 19193,
+                            "Visible": true,
+                            "Id": 568553878,
+                            "Self": "4\/19591\/5927043\/178179943\/568553878",
+                            "Name": "4-0"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179943\/568553879",
+                            "Name": "4-1",
+                            "Odds": 10.5,
+                            "GameTemplateId": 19193,
+                            "Visible": true,
+                            "Id": 568553879
+                        },
+                        {
+                            "Id": 568553880,
+                            "Odds": 51,
+                            "GameTemplateId": 19193,
+                            "Visible": true,
+                            "Name": "4-2",
+                            "Self": "4\/19591\/5927043\/178179943\/568553880"
+                        },
+                        {
+                            "Visible": true,
+                            "Odds": 251,
+                            "GameTemplateId": 19193,
+                            "Id": 568553881,
+                            "Self": "4\/19591\/5927043\/178179943\/568553881",
+                            "Name": "4-3"
+                        },
+                        {
+                            "GameTemplateId": 19193,
+                            "Odds": 251,
+                            "Visible": true,
+                            "Id": 568553882,
+                            "Self": "4\/19591\/5927043\/178179943\/568553882",
+                            "Name": "4-4"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179943\/568553883",
+                            "Name": "3-4",
+                            "GameTemplateId": 19193,
+                            "Odds": 251,
+                            "Visible": true,
+                            "Id": 568553883
+                        },
+                        {
+                            "Visible": true,
+                            "GameTemplateId": 19193,
+                            "Odds": 251,
+                            "Id": 568553884,
+                            "Self": "4\/19591\/5927043\/178179943\/568553884",
+                            "Name": "2-4"
+                        },
+                        {
+                            "Id": 568553885,
+                            "Visible": false,
+                            "GameTemplateId": 19193,
+                            "Odds": 1,
+                            "Name": "1-4",
+                            "Self": "4\/19591\/5927043\/178179943\/568553885"
+                        },
+                        {
+                            "Odds": 1,
+                            "GameTemplateId": 19193,
+                            "Visible": false,
+                            "Id": 568553886,
+                            "Self": "4\/19591\/5927043\/178179943\/568553886",
+                            "Name": "0-4"
+                        },
+                        {
+                            "GameTemplateId": 19193,
+                            "Odds": 2.45,
+                            "Visible": true,
+                            "Id": 568553887,
+                            "Self": "4\/19591\/5927043\/178179943\/568553887",
+                            "Name": "Any other score"
+                        }
+                    ]
+                },
+                {
+                    "Results": [
+                        {
+                            "Self": "4\/19591\/5927043\/178179946\/568553892",
+                            "Name": "0-2",
+                            "Visible": true,
+                            "GameTemplateId": 27534,
+                            "Odds": 7.5,
+                            "Id": 568553892
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178179946\/568553893",
+                            "Name": "3-4",
+                            "Odds": 2,
+                            "GameTemplateId": 27534,
+                            "Visible": true,
+                            "Id": 568553893
+                        },
+                        {
+                            "GameTemplateId": 27534,
+                            "Odds": 2.1,
+                            "Visible": true,
+                            "Id": 568553894,
+                            "Self": "4\/19591\/5927043\/178179946\/568553894",
+                            "Name": "5+"
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false,
+                    "Id": 178179946,
+                    "Self": "4\/19591\/5927043\/178179946",
+                    "ResultOrder": 0,
+                    "IsMainbook": false,
+                    "GameTemplateId": 27534,
+                    "MarketOrder": 73,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "Name": "Total Goal Bands (0-5+)"
+                },
+                {
+                    "Id": 178179949,
+                    "Results": [
+                        {
+                            "Id": 568553899,
+                            "Visible": true,
+                            "GameTemplateId": 7824,
+                            "Odds": 3.25,
+                            "Name": "Yes",
+                            "Self": "4\/19591\/5927043\/178179949\/568553899"
+                        },
+                        {
+                            "Visible": true,
+                            "GameTemplateId": 7824,
+                            "Odds": 1.3,
+                            "Id": 568553900,
+                            "Self": "4\/19591\/5927043\/178179949\/568553900",
+                            "Name": "No"
+                        }
+                    ],
+                    "IsMain": false,
+                    "Visible": true,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179949",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "MarketOrder": 49,
+                    "IsMainbook": false,
+                    "GameTemplateId": 7824,
+                    "Name": "Both Teams to Score"
+                },
+                {
+                    "Id": 178181503,
+                    "Results": [
+                        {
+                            "Visible": true,
+                            "GameTemplateId": 20087,
+                            "Odds": 1.5,
+                            "Id": 568557677,
+                            "Self": "4\/19591\/5927043\/178181503\/568557677",
+                            "Name": "Over 3,5"
+                        },
+                        {
+                            "Visible": true,
+                            "Odds": 2.4,
+                            "GameTemplateId": 20087,
+                            "Id": 568557678,
+                            "Self": "4\/19591\/5927043\/178181503\/568557678",
+                            "Name": "Under 3,5"
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178181503",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "IsMainbook": false,
+                    "GameTemplateId": 20087,
+                    "MarketOrder": 85,
+                    "Name": "Total Goals O\/U - Team 1"
+                },
+                {
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179913",
+                    "Id": 178179913,
+                    "Results": [
+                        {
+                            "Id": 568553772,
+                            "Odds": 3.4,
+                            "GameTemplateId": 19510,
+                            "Visible": true,
+                            "Name": "Yes",
+                            "Self": "4\/19591\/5927043\/178179913\/568553772"
+                        },
+                        {
+                            "Odds": 1.28,
+                            "GameTemplateId": 19510,
+                            "Visible": true,
+                            "Id": 568553773,
+                            "Self": "4\/19591\/5927043\/178179913\/568553773",
+                            "Name": "No"
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false,
+                    "Name": "Any Team to win by exactly 3 Goals",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "GameTemplateId": 19510,
+                    "IsMainbook": false,
+                    "MarketOrder": 39
+                },
+                {
+                    "Id": 178179933,
+                    "IsMain": false,
+                    "Visible": true,
+                    "Results": [
+                        {
+                            "Id": 568553840,
+                            "GameTemplateId": 4665,
+                            "Odds": 1.83,
+                            "Visible": true,
+                            "Name": "Even",
+                            "Self": "4\/19591\/5927043\/178179933\/568553840"
+                        },
+                        {
+                            "Name": "Odd",
+                            "Self": "4\/19591\/5927043\/178179933\/568553841",
+                            "Id": 568553841,
+                            "Visible": true,
+                            "GameTemplateId": 4665,
+                            "Odds": 1.87
+                        }
+                    ],
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178179933",
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsMainbook": false,
+                    "GameTemplateId": 4665,
+                    "MarketOrder": 48,
+                    "Name": "Number of Goals - Odd\/Even (no Goal counts as even)"
+                },
+                {
+                    "Name": "Any Team to win by exactly 2 Goals",
+                    "IsMainbook": false,
+                    "GameTemplateId": 19509,
+                    "MarketOrder": 38,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "Self": "4\/19591\/5927043\/178179938",
+                    "ResultOrder": 0,
+                    "IsMain": false,
+                    "Visible": true,
+                    "Results": [
+                        {
+                            "Name": "Yes",
+                            "Self": "4\/19591\/5927043\/178179938\/568553851",
+                            "Id": 568553851,
+                            "GameTemplateId": 19509,
+                            "Odds": 5,
+                            "Visible": true
+                        },
+                        {
+                            "Visible": true,
+                            "GameTemplateId": 19509,
+                            "Odds": 1.14,
+                            "Id": 568553852,
+                            "Self": "4\/19591\/5927043\/178179938\/568553852",
+                            "Name": "No"
+                        }
+                    ],
+                    "Id": 178179938
+                },
+                {
+                    "Name": "Total Goals - Over\/Under",
+                    "MarketOrder": 10,
+                    "IsMainbook": false,
+                    "GameTemplateId": 859,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "Self": "4\/19591\/5927043\/178179935",
+                    "ResultOrder": 0,
+                    "Results": [
+                        {
+                            "Self": "4\/19591\/5927043\/178179935\/568553845",
+                            "Name": "Over 5,5",
+                            "Visible": true,
+                            "GameTemplateId": 859,
+                            "Odds": 3.8,
+                            "Id": 568553845
+                        },
+                        {
+                            "Name": "Under 5,5",
+                            "Self": "4\/19591\/5927043\/178179935\/568553846",
+                            "Id": 568553846,
+                            "Visible": true,
+                            "Odds": 1.22,
+                            "GameTemplateId": 859
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false,
+                    "Id": 178179935
+                },
+                {
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178181541",
+                    "Id": 178181541,
+                    "IsMain": false,
+                    "Visible": true,
+                    "Results": [
+                        {
+                            "Visible": true,
+                            "Odds": 1.2,
+                            "GameTemplateId": 1345,
+                            "Id": 568557761,
+                            "Self": "4\/19591\/5927043\/178181541\/568557761",
+                            "Name": "APIA Leichhardt Tigers"
+                        },
+                        {
+                            "Name": "No goal",
+                            "Self": "4\/19591\/5927043\/178181541\/568557762",
+                            "Id": 568557762,
+                            "Visible": true,
+                            "Odds": 7.5,
+                            "GameTemplateId": 1345
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178181541\/568557763",
+                            "Name": "Hakoah Sydney City East",
+                            "Odds": 6.75,
+                            "GameTemplateId": 1345,
+                            "Visible": true,
+                            "Id": 568557763
+                        }
+                    ],
+                    "Name": "3rd Goal",
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "IsExt": false,
+                    "MarketOrder": 86,
+                    "GameTemplateId": 1345,
+                    "IsMainbook": false
+                },
+                {
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "GameTemplateId": 21059,
+                    "IsMainbook": false,
+                    "MarketOrder": null,
+                    "Name": "Rest of the Match \u2013 Current Score: 2:0",
+                    "Id": 178181542,
+                    "Results": [
+                        {
+                            "Id": 568557764,
+                            "Visible": true,
+                            "GameTemplateId": 21059,
+                            "Odds": 1.19,
+                            "Name": "APIA Leichhardt Tigers",
+                            "Self": "4\/19591\/5927043\/178181542\/568557764"
+                        },
+                        {
+                            "Odds": 5,
+                            "GameTemplateId": 21059,
+                            "Visible": true,
+                            "Id": 568557765,
+                            "Self": "4\/19591\/5927043\/178181542\/568557765",
+                            "Name": "X"
+                        },
+                        {
+                            "Odds": 14,
+                            "GameTemplateId": 21059,
+                            "Visible": true,
+                            "Id": 568557766,
+                            "Self": "4\/19591\/5927043\/178181542\/568557766",
+                            "Name": "Hakoah Sydney City East"
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178181542"
+                },
+                {
+                    "GameTemplateId": 313,
+                    "IsMainbook": false,
+                    "MarketOrder": 11,
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "Name": "Total Goals - Over\/Under",
+                    "Visible": true,
+                    "IsMain": false,
+                    "Results": [
+                        {
+                            "Id": 568557772,
+                            "GameTemplateId": 313,
+                            "Odds": 7,
+                            "Visible": true,
+                            "Name": "Over 6,5",
+                            "Self": "4\/19591\/5927043\/178181545\/568557772"
+                        },
+                        {
+                            "GameTemplateId": 313,
+                            "Odds": 1.07,
+                            "Visible": true,
+                            "Id": 568557773,
+                            "Self": "4\/19591\/5927043\/178181545\/568557773",
+                            "Name": "Under 6,5"
+                        }
+                    ],
+                    "Id": 178181545,
+                    "Self": "4\/19591\/5927043\/178181545",
+                    "ResultOrder": 0
+                },
+                {
+                    "Id": 178181547,
+                    "Visible": true,
+                    "IsMain": false,
+                    "Results": [
+                        {
+                            "Self": "4\/19591\/5927043\/178181547\/568557777",
+                            "Name": "APIA Leichhardt Tigers",
+                            "Visible": true,
+                            "GameTemplateId": 425,
+                            "Odds": 2.95,
+                            "Id": 568557777
+                        },
+                        {
+                            "Visible": true,
+                            "GameTemplateId": 425,
+                            "Odds": 3.7,
+                            "Id": 568557778,
+                            "Self": "4\/19591\/5927043\/178181547\/568557778",
+                            "Name": "X"
+                        },
+                        {
+                            "Name": "Hakoah Sydney City East",
+                            "Self": "4\/19591\/5927043\/178181547\/568557779",
+                            "Id": 568557779,
+                            "GameTemplateId": 425,
+                            "Odds": 2,
+                            "Visible": true
+                        }
+                    ],
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178181547",
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "GameTemplateId": 425,
+                    "IsMainbook": false,
+                    "MarketOrder": 84,
+                    "Name": "Handicap 0:4"
+                },
+                {
+                    "Name": "Any Team to win by exactly 4 Goals",
+                    "IsExt": false,
+                    "OpenDate": "2017-03-19T04:45:00Z",
+                    "GameTemplateId": 19511,
+                    "IsMainbook": false,
+                    "MarketOrder": 40,
+                    "ResultOrder": 0,
+                    "Self": "4\/19591\/5927043\/178181549",
+                    "Id": 178181549,
+                    "Results": [
+                        {
+                            "Id": 568557782,
+                            "GameTemplateId": 19511,
+                            "Odds": 3.6,
+                            "Visible": true,
+                            "Name": "Yes",
+                            "Self": "4\/19591\/5927043\/178181549\/568557782"
+                        },
+                        {
+                            "Self": "4\/19591\/5927043\/178181549\/568557783",
+                            "Name": "No",
+                            "Visible": true,
+                            "Odds": 1.25,
+                            "GameTemplateId": 19511,
+                            "Id": 568557783
+                        }
+                    ],
+                    "Visible": true,
+                    "IsMain": false
+                }
+            ]
+        }
+    ]
+}
