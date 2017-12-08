@@ -1,6 +1,6 @@
 # Event Lineup
 
-**It requires "Soccer Enhanced API" permission, see [Pricing](/mm/pricing) for more details**
+**It requires "Soccer Enhanced API" permission, see [Pricing](https://betsapi.com/mm/pricing) for more details**
 
 Soccer only. Note not all events have lineup. you can get the flag (has_lineup) in /event/view.
 

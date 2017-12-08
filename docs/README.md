@@ -2,9 +2,9 @@
 
 Bets API is a RESTful service for data on all sports. It is a **PAID** service with low price (started with $10 per month).
 
-Note that in order to access Bets API you must purchase [related packages](/mm/pricing).
+Note that in order to access Bets API you must purchase [related packages](https://betsapi.com/mm/pricing).
 
-Please [contact us](/contactus) if you have any problem.
+Please [contact us](https://betsapi.com/contactus) if you have any problem.
 
 ## Authentication
 

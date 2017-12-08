@@ -1,6 +1,6 @@
 # Event Stats Trend
 
-**It requires "Soccer Enhanced API" permission, see [Pricing](/mm/pricing) for more details**
+**It requires "Soccer Enhanced API" permission, see [Pricing](https://betsapi.com/mm/pricing) for more details**
 
 Soccer only. only available for events after 2017-06-10.
 

@@ -1,6 +1,6 @@
 # League TopList
 
-**It requires "Soccer Enhanced API" permission, see [Pricing](/mm/pricing) for more details**
+**It requires "Soccer Enhanced API" permission, see [Pricing](https://betsapi.com/mm/pricing) for more details**
 
 **Note a few of (less than 5%) teams do not have 'id'.**
 

@@ -1,6 +1,6 @@
 # Pricing
 
-Check [Pricing](/mm/pricing) for details, or [contact us](/contactus) if you have custom requirements.
+Check [Pricing](https://betsapi.com/mm/pricing) for details, or [contact us](https://betsapi.com/contactus) if you have custom requirements.
 
 ## Packages
 
@@ -23,7 +23,7 @@ It can access all the APIs. and it includes **Standalone Server**
 
 ### Standalone Server
 
-It does not provide any API call, it only increases the hourly rate limitation. If you need more than 199,999 requests per hour, please [contact us](/contactus).
+It does not provide any API call, it only increases the hourly rate limitation. If you need more than 199,999 requests per hour, please [contact us](https://betsapi.com/contactus).
 
 ### Trial
 

@@ -8,7 +8,7 @@ Useful that you want the results by querying with Betsson Event ID.
 
 `GET https://api.betsapi.com/v1/betsson/result`
 
-> curl "https://api.betsapi.com/v1/betsson/result?token=YOUR_TOKEN&event_id=2268831"
+> curl "https://api.betsapi.com/v1/betsson/result?token=YOUR_TOKEN&event_id=2377119"
 
 ### URL Parameters
 
