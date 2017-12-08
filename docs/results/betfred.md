@@ -1,19 +1,14 @@
 # BetFred Result
 
-```shell
-curl "https://api.betsapi.com/v1/betfred/result?token=YOUR_TOKEN\
-&event_id=7924565"
-```
-
-<aside class="notice">
-Note a few of (less than 2%) events are not covered.
-</aside>
+**Note a few of (less than 2%) events are not covered.**
 
 Useful that you want the results by querying with BetFred XML Feed.
 
 ## HTTP Request
 
 `GET https://api.betsapi.com/v1/betfred/result`
+
+> curl "https://api.betsapi.com/v1/betfred/result?token=YOUR_TOKEN&event_id=7924565"
 
 ### URL Parameters
 
@@ -23,4 +18,4 @@ event_id | Yes | eventid from BetFred XML Feeds. (.20 will be removed automatica
 
 ## HTTP Response
 
-[betfred_result.json](samples/betfred_result.json)
+[betfred_result.json](../samples/betfred_result.json)

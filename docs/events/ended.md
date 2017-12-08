@@ -1,13 +1,10 @@
 # Ended Events
 
-```shell
-curl "https://api.betsapi.com/v1/events/ended?sport_id=1"
-  -H "X-API-TOKEN: YOUR-TOKEN"
-```
-
 ## HTTP Request
 
 `GET https://api.betsapi.com/v1/events/ended`
+
+> curl "https://api.betsapi.com/v1/events/ended?sport_id=1&token=YOUR-TOKEN"
 
 ### Query Parameters
 
@@ -22,4 +19,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[ended.json](samples/ended.json)
+[ended.json](../samples/ended.json)

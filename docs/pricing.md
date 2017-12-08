@@ -6,20 +6,20 @@ Check [Pricing](/mm/pricing) for details, or [contact us](/contactus) if you hav
 
 ### for Events API
 
- * For all sports, you need _All Events API_
- * if you just need one sport, try related one like _Soccer API_, _Basketball API_, _Tennis API_ etc.
+ * For all sports, you need **All Events API**
+ * if you just need one sport, try related one like **Soccer API**, **Basketball API**, **Tennis API** etc.
 
 ### for Bet365 API
 
-Package _Bet365 API_ is required.
+Package **Bet365 API** is required.
 
 ### for BWin API
 
-Package _BWin API_ is required.
+Package **BWin API** is required.
 
 ### Everything API
 
-It can access all the APIs. and it includes _Standalone Server_
+It can access all the APIs. and it includes **Standalone Server**
 
 ### Standalone Server
 

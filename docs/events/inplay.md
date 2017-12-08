@@ -4,6 +4,8 @@
 
 `GET https://api.betsapi.com/v1/events/inplay`
 
+> curl "https://api.betsapi.com/v1/events/inplay?sport_id=1&token=YOUR-TOKEN"
+
 ### Query Parameters
 
 Parameter | Required? | Description
@@ -14,9 +16,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[inplay.json](samples/inplay.json)
-
-```shell
-curl "https://api.betsapi.com/v1/events/inplay?sport_id=1"
-  -H "X-API-TOKEN: YOUR-TOKEN"
-```
+[inplay.json](../samples/inplay.json)

@@ -1,5 +1,7 @@
 # Summary
 
+* [BetsAPI.com](https://betsapi.com/)
+
 * [Introduction](README.md)
 * [Pricing/Packages](pricing.md)
 
@@ -45,3 +47,7 @@
 * [FAQ](others/faq.md)
 * [Changes](others/changes.md)
 * [Code Samples](others/code_samples.md)
+
+### Links
+
+* [BetsAPI.com](https://betsapi.com/)

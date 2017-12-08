@@ -1,13 +1,10 @@
 # League
 
-```shell
-curl "https://api.betsapi.com/v1/league?token=YOUR_TOKEN\
-&sport_id=1"
-```
-
 ## HTTP Request
 
 `GET https://api.betsapi.com/v1/league`
+
+> curl "https://api.betsapi.com/v1/league?token=YOUR_TOKEN&sport_id=1"
 
 ### URL Parameters
 
@@ -19,4 +16,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[league.json](samples/league.json)
+[league.json](../samples/league.json)

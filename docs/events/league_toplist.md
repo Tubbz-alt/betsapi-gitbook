@@ -1,20 +1,14 @@
 # League TopList
 
-<aside class="notice">
-It requires "Soccer Enhanced API" permission, see Pricing for more details
-</aside>
-<aside class="notice">
-Note a few of (less than 5%) teams do not have 'id'.
-</aside>
+**It requires "Soccer Enhanced API" permission, see [Pricing](/mm/pricing) for more details**
 
-```shell
-curl "https://api.betsapi.com/v1/league/toplist?token=YOUR_TOKEN\
-&league_id=94"
-```
+**Note a few of (less than 5%) teams do not have 'id'.**
 
 ## HTTP Request
 
 `GET https://api.betsapi.com/v1/league/toplist`
+
+> curl "https://api.betsapi.com/v1/league/toplist?token=YOUR_TOKEN&league_id=94"
 
 ### URL Parameters
 
@@ -24,4 +18,4 @@ league_id | Yes | flag 'has_toplist' from [League API](#league)
 
 ## HTTP Response
 
-[league_toplist.json](samples/league_toplist.json)
+[league_toplist.json](../samples/league_toplist.json)

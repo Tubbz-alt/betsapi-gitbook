@@ -12,13 +12,10 @@ Please [contact us](/contactus) if you have any problem.
 > Make sure to replace `YOUR-TOKEN` with your token.
 
 ```shell
-# With shell, pass the correct header with each request
-curl "api_endpoint_here"
-  -H "X-API-TOKEN: YOUR-TOKEN"
+curl "api_endpoint_here" -H "X-API-TOKEN: YOUR-TOKEN"
 ```
 
 ```shell
-# With shell, pass the correct header with each request
 curl "api_endpoint_here?token=YOUR-TOKEN"
 ```
 

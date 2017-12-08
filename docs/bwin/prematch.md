@@ -1,12 +1,10 @@
 # BWin Prematch Odds
 
-```shell
-curl "https://api.betsapi.com/v1/bwin/prematch?token=YOUR_TOKEN"
-```
-
 ## HTTP Request
 
 `GET https://api.betsapi.com/v1/bwin/prematch`
+
+> curl "https://api.betsapi.com/v1/bwin/prematch?token=YOUR_TOKEN"
 
 ### URL Parameters
 
@@ -17,4 +15,4 @@ sport_id | No | BWin sport_id
 
 ## HTTP Response
 
-[bwin_prematch.json](samples/bwin_prematch.json)
+[bwin_prematch.json](../samples/bwin_prematch.json)

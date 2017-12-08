@@ -1,13 +1,10 @@
 # Upcoming Events
 
-```shell
-curl "https://api.betsapi.com/v1/events/upcoming?sport_id=1"
-  -H "X-API-TOKEN: YOUR-TOKEN"
-```
-
 ## HTTP Request
 
 `GET https://api.betsapi.com/v1/events/upcoming`
+
+> curl "https://api.betsapi.com/v1/events/upcoming?sport_id=1&token=YOUR-TOKEN"
 
 ### Query Parameters
 
@@ -22,4 +19,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[upcoming.json](samples/upcoming.json)
+[upcoming.json](../samples/upcoming.json)

@@ -1,13 +1,10 @@
 # Bet365 Inplay Event
 
-```shell
-curl "https://api.betsapi.com/v1/bet365/event?token=YOUR_TOKEN\
-&FI=60504279"
-```
-
 ## HTTP Request
 
 `GET https://api.betsapi.com/v1/bet365/event`
+
+> curl "https://api.betsapi.com/v1/bet365/event?token=YOUR_TOKEN&FI=60504279"
 
 ### URL Parameters
 
@@ -20,10 +17,10 @@ raw | No | raw Bet365 body without parsing
 
 ## HTTP Response
 
-[bet365_event.soccer.json](samples/bet365_event.soccer.json)
-[bet365_event.soccer.stats.json](samples/bet365_event.soccer.stats.json)
-[bet365_event.basketball.json](samples/bet365_event.basketball.json)
-[bet365_event.cricket.json](samples/bet365_event.cricket.json)
-[bet365_event.cricket.lineup.json](samples/bet365_event.cricket.lineup.json)
+ * [bet365_event.soccer.json](../samples/bet365_event.soccer.json)
+ * [bet365_event.soccer.stats.json](../samples/bet365_event.soccer.stats.json)
+ * [bet365_event.basketball.json](../samples/bet365_event.basketball.json)
+ * [bet365_event.cricket.json](../samples/bet365_event.cricket.json)
+ * [bet365_event.cricket.lineup.json](../samples/bet365_event.cricket.lineup.json)
 
-[Fields Explanation](bet365/fields.md)
+[Fields Explanation](fields.md)
