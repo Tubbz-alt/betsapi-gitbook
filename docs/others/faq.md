@@ -1,0 +1,19 @@
+# FAQ
+
+### How can I get all historical data?
+
+First try with [League](#league) API, and go through [pager](#pager) to get all data.
+
+Afterwards, pass each **league_id** in [Events](#ended-events) API with pager.
+
+### How can I get all leagues in Brazil?
+
+use [League](#league) API with cc=br. For example: https://api.betsapi.com/v1/league?token=YOUR-TOKEN&sport_id=1&cc=br
+
+### Do you provide languages other than English?
+
+Yes, we do. Pass LNG_ID as one of the param in GET for specified language. [Reference](#languages).
+
+### I don't know how to program, can you help?
+
+We offer data in CSV/Excel format if you don't know how to program. Please [contact us](/contactus) and send your requirements.
