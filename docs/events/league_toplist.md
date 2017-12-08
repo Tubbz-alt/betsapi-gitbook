@@ -18,4 +18,4 @@ league_id | Yes | flag 'has_toplist' from [League API](#league)
 
 ## HTTP Response
 
-[league_toplist.json](../samples/league_toplist.json)
+<a href="../samples/league_toplist.json" target="_blank">league_toplist.json</a>

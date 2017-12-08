@@ -16,5 +16,5 @@ event_id | Yes | Event ID you get from events/*
 
 ## HTTP Response
 
- * [event_view.json](../samples/event_view.json)
- * [event_view.basketball.json](../samples/event_view.basketball.json)
+ * <a href="../samples/event_view.json" target="_blank">event_view.json</a>
+ * <a href="../samples/event_view.basketball.json" target="_blank">event_view.basketball.json</a>

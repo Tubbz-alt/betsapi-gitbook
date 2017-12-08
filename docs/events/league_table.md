@@ -16,4 +16,4 @@ league_id | Yes | flag 'has_leaguetable' from [League API](#league)
 
 ## HTTP Response
 
-[league_table.json](../samples/league_table.json)
+<a href="../samples/league_table.json" target="_blank">league_table.json</a>

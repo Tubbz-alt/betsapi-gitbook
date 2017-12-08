@@ -17,6 +17,6 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[bet365_upcoming.json](../samples/bet365_upcoming.json)
+<a href="../samples/bet365_upcoming.json" target="_blank">bet365_upcoming.json</a>
 
 > league.id/home.id/away.id returned from bet365/upcoming might be different than event/upcoming.

@@ -14,6 +14,6 @@ raw | No | raw Bet365 body without parsing
 
 ## HTTP Response
 
-[bet365_inplay.json](../samples/bet365_inplay.json)
+<a href="../samples/bet365_inplay.json" target="_blank">bet365_inplay.json</a>
 
 [Fields Explanation](fields.md)

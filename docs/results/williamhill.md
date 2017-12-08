@@ -18,4 +18,4 @@ event_id | Yes | event_id from WilliamHill XML Feeds. (Example: the id 10901582 
 
 ## HTTP Response
 
-[williamhill_result.json](../samples/williamhill_result.json)
+<a href="../samples/williamhill_result.json" target="_blank">williamhill_result.json</a>

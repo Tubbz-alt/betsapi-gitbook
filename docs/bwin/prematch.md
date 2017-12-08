@@ -15,4 +15,4 @@ sport_id | No | BWin sport_id
 
 ## HTTP Response
 
-[bwin_prematch.json](../samples/bwin_prematch.json)
+<a href="../samples/bwin_prematch.json" target="_blank">bwin_prematch.json</a>

@@ -19,4 +19,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[upcoming.json](../samples/upcoming.json)
+<a href="../samples/upcoming.json" target="_blank">upcoming.json</a>

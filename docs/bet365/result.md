@@ -18,4 +18,4 @@ event_id | Yes | Event ID (FI) from Bet365 Inplay
 
 ## HTTP Response
 
-[bet365_result.json](../samples/bet365_result.json)
+<a href="../samples/bet365_result.json" target="_blank">bet365_result.json</a>

@@ -18,4 +18,4 @@ event_id | Yes | Event ID you get from events/*
 
 ## HTTP Response
 
-[event_lineup.json](../samples/event_lineup.json)
+<a href="../samples/event_lineup.json" target="_blank">event_lineup.json</a>

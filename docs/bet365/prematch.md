@@ -15,4 +15,4 @@ raw | No | raw Bet365 body without parsing
 
 ## HTTP Response
 
-[bet365_event.json](../samples/bet365_prematch_odds.json)
+<a href="../samples/bet365_event.json" target="_blank">bet365_event.json</a>

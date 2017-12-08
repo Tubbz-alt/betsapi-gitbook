@@ -16,7 +16,7 @@ since_time | No | Integer. add_time will be >= $since_time in results. Faster to
 
 ## HTTP Response
 
-[event_odds.json](../samples/event_odds.json)
+<a href="../samples/event_odds.json" target="_blank">event_odds.json</a>
 
 ## Odds Markets
 

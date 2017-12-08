@@ -18,4 +18,4 @@ event_id | Yes | eventid from BWin API
 
 ## HTTP Response
 
-[bwin_result.json](../samples/bwin_result.json)
+<a href="../samples/bwin_result.json" target="_blank">bwin_result.json</a>

@@ -16,4 +16,4 @@ event_id | Yes | Event ID you get from /bwin/inplay or prematch
 
 ## HTTP Response
 
-[bwin_event.json](../samples/bwin_event.json)
+<a href="../samples/bwin_event.json" target="_blank">bwin_event.json</a>

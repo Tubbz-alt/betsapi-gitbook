@@ -16,4 +16,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[league.json](../samples/league.json)
+<a href="../samples/league.json" target="_blank">league.json</a>

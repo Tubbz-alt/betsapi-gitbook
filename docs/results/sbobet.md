@@ -18,4 +18,4 @@ event_id | Yes | event_id from Sbobet
 
 ## HTTP Response
 
-[sbobet_result.json](../samples/sbobet_result.json)
+<a href="../samples/sbobet_result.json" target="_blank">sbobet_result.json</a>

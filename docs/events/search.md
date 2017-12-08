@@ -19,4 +19,4 @@ time | Yes | either UTC time epoch (Limited to 90 days) or day YYYYMMDD
 
 ## HTTP Response
 
-[search.json](../samples/search.json)
+<a href="../samples/search.json" target="_blank">search.json</a>

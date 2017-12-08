@@ -18,4 +18,4 @@ event_id | Yes | Event ID you get from events/*
 
 ## HTTP Response
 
-[event_stats_trend.json](../samples/event_stats_trend.json)
+<a href="../samples/event_stats_trend.json" target="_blank">event_stats_trend.json</a>

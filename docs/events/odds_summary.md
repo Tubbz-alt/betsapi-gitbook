@@ -14,4 +14,4 @@ event_id | Yes | Event ID you get from events/*
 
 ## HTTP Response
 
-[event_odds_summary.json](../samples/event_odds_summary.json)
+<a href="../samples/event_odds_summary.json" target="_blank">event_odds_summary.json</a>

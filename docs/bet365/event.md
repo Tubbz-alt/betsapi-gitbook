@@ -17,10 +17,10 @@ raw | No | raw Bet365 body without parsing
 
 ## HTTP Response
 
- * [bet365_event.soccer.json](../samples/bet365_event.soccer.json)
- * [bet365_event.soccer.stats.json](../samples/bet365_event.soccer.stats.json)
- * [bet365_event.basketball.json](../samples/bet365_event.basketball.json)
- * [bet365_event.cricket.json](../samples/bet365_event.cricket.json)
- * [bet365_event.cricket.lineup.json](../samples/bet365_event.cricket.lineup.json)
+ * <a href="../samples/bet365_event.soccer.json" target="_blank">bet365_event.soccer.json</a>
+ * <a href="../samples/bet365_event.soccer.stats.json" target="_blank">bet365_event.soccer.stats.json</a>
+ * <a href="../samples/bet365_event.basketball.json" target="_blank">bet365_event.basketball.json</a>
+ * <a href="../samples/bet365_event.cricket.json" target="_blank">bet365_event.cricket.json</a>
+ * <a href="../samples/bet365_event.cricket.lineup.json" target="_blank">bet365_event.cricket.lineup.json</a>
 
 [Fields Explanation](fields.md)

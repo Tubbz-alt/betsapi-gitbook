@@ -18,4 +18,4 @@ event_id | Yes | eventid from BetFred XML Feeds. (.20 will be removed automatica
 
 ## HTTP Response
 
-[betfred_result.json](../samples/betfred_result.json)
+<a href="../samples/betfred_result.json" target="_blank">betfred_result.json</a>

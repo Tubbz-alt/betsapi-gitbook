@@ -15,4 +15,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[team.json](../samples/team.json)
+<a href="../samples/team.json" target="_blank">team.json</a>

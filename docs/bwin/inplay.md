@@ -8,4 +8,4 @@
 
 ## HTTP Response
 
-[bwin_inplay.json](../samples/bwin_inplay.json)
+<a href="../samples/bwin_inplay.json" target="_blank">bwin_inplay.json</a>

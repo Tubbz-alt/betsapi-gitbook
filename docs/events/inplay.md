@@ -16,4 +16,4 @@ page | No | R-Pager
 
 ## HTTP Response
 
-[inplay.json](../samples/inplay.json)
+<a href="../samples/inplay.json" target="_blank">inplay.json</a>
