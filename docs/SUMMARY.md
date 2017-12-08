@@ -28,6 +28,7 @@
 * [Bet365 Upcoming Events](bet365/upcoming.md)
 * [Bet365 PreMatch Odds](bet365/prematch.md)
 * [Bet365 Result](bet365/result.md)
+* [Fields Explanation](bet365/fields.md)
 
 ### BWin API
 
