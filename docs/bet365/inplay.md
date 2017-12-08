@@ -1,3 +1,8 @@
+---
+description: Bet365 InPlay API
+keywords: bet365, bet365 api
+---
+
 # Bet365 InPlay
 
 ## HTTP Request

@@ -1,9 +1,9 @@
 {% extends template.self %}
 
-{% block title %}{{ page.title }} - BetsAPI{% endblock %}
-
-{% block style %}
+{% block head %}
     {{ super() }}
+
+    <meta name="keywords" content="{{ page.keywords }}">
 {% endblock %}
 
 {% block body %}
