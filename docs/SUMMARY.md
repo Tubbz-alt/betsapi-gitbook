@@ -42,6 +42,7 @@
 * [BetFred Result](results/betfred.md)
 * [WilliamHill Result](results/williamhill.md)
 * [Sbobet Result](results/sbobet.md)
+* [Betsson Result](results/betsson.md)
 
 ### Others
 

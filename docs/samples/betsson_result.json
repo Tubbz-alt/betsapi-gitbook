@@ -1,0 +1,199 @@
+{
+    "success": 1,
+    "results": [
+        {
+            "id": "559563",
+            "sport_id": "1",
+            "time": "1512673200",
+            "time_status": "3",
+            "league": {
+                "id": "8120",
+                "name": "Copa Internacional RS U20",
+                "cc": null
+            },
+            "home": {
+                "id": "68740",
+                "name": "Nacional De Football U20",
+                "image_id": "300590",
+                "cc": "br"
+            },
+            "away": {
+                "id": "191993",
+                "name": "Defensor Sporting U20",
+                "image_id": "3229",
+                "cc": "br"
+            },
+            "ss": "1-2",
+            "scores": {
+                "2": {
+                    "home": "1",
+                    "away": "2"
+                },
+                "1": {
+                    "home": "0",
+                    "away": "2"
+                }
+            },
+            "stats": {
+                "attacks": [
+                    "106",
+                    "98"
+                ],
+                "ball_safe": [
+                    "87",
+                    "102"
+                ],
+                "corners": [
+                    "11",
+                    "2"
+                ],
+                "corner_f": [
+                    "11",
+                    "2"
+                ],
+                "corner_h": [
+                    "4",
+                    "1"
+                ],
+                "dangerous_attacks": [
+                    "91",
+                    "75"
+                ],
+                "goals": [
+                    "1",
+                    "2"
+                ],
+                "off_target": [
+                    "12",
+                    "5"
+                ],
+                "on_target": [
+                    "5",
+                    "4"
+                ],
+                "penalties": [
+                    "0",
+                    "0"
+                ],
+                "possession_rt": [
+                    "54",
+                    "46"
+                ],
+                "redcards": [
+                    "0",
+                    "0"
+                ],
+                "substitutions": [
+                    "0",
+                    "0"
+                ],
+                "yellowcards": [
+                    "0",
+                    "1"
+                ]
+            },
+            "events": [
+                {
+                    "id": "39575163",
+                    "text": "9' - 1st Corner - Defensor Sporting U20"
+                },
+                {
+                    "id": "39575314",
+                    "text": "13' - 1st Goal -   (Defensor Sporting U20) -"
+                },
+                {
+                    "id": "39575887",
+                    "text": "32' - 2nd Goal -   (Defensor Sporting U20) -"
+                },
+                {
+                    "id": "39576178",
+                    "text": "42' - 2nd Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39576207",
+                    "text": "43' - 3rd Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39576220",
+                    "text": "44' - 4th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39576221",
+                    "text": "44' - Race to 3 Corners - Nacional De Football U20"
+                },
+                {
+                    "id": "39576235",
+                    "text": "44' - 5th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39576278",
+                    "text": "0-2: First Half Score"
+                },
+                {
+                    "id": "39576807",
+                    "text": "50' - 6th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39576808",
+                    "text": "50' - Race to 5 Corners - Nacional De Football U20"
+                },
+                {
+                    "id": "39576904",
+                    "text": "57' - 7th Corner - Defensor Sporting U20"
+                },
+                {
+                    "id": "39576935",
+                    "text": "59' - 8th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39577242",
+                    "text": "75' - 9th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39577243",
+                    "text": "75' - Race to 7 Corners - Nacional De Football U20"
+                },
+                {
+                    "id": "39577247",
+                    "text": "76' - 10th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39577408",
+                    "text": "85' - 11th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39577409",
+                    "text": "85' - Race to 9 Corners - Nacional De Football U20"
+                },
+                {
+                    "id": "39577424",
+                    "text": "86' - 1st Yellow Card -  (Defensor Sporting U20)"
+                },
+                {
+                    "id": "39577533",
+                    "text": "90+2' - 12th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39577541",
+                    "text": "90+2' - 13th Corner - Nacional De Football U20"
+                },
+                {
+                    "id": "39577545",
+                    "text": "90+3' - 3rd Goal -   (Nacional De Football U20) -"
+                },
+                {
+                    "id": "39577557",
+                    "text": "1-2: Full Time Score"
+                }
+            ],
+            "extra": {
+                "length": "90",
+                "pitch": "Good",
+                "weather": "Good",
+                "round": "1"
+            },
+            "has_lineup": 0,
+            "bet365_id": "69308624"
+        }
+    ]
+}

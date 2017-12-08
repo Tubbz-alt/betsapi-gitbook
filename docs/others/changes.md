@@ -1,5 +1,9 @@
 # Changes
 
+### 2017-12-08
+  * switch docs to gitbook
+  * add Betsson Result
+
 ### 2017-11-04
   * more bookmakers (marathonbet, betvictor, intertops, betredkings, interwetten)
 
