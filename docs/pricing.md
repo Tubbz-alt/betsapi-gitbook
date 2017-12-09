@@ -23,11 +23,13 @@ Package **Betway API** is required.
 
 ### Everything API
 
-It can access all the APIs. and it includes **Standalone Server**
+It can access all the APIs. and it includes **Volume 1** package
 
-### Standalone Server
+### Volume Packages
 
-It does not provide any API call, it only increases the hourly rate limitation. If you need more than 199,999 requests per hour, please [contact us](https://betsapi.com/contactus).
+By default all apis are limited with 3600 requests per hour. you can buy **Volume Packages** to increases the hourly rate limitation.
+
+**It does not provide any API acess.**
 
 ### Trial
 
