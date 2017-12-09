@@ -1,0 +1,103 @@
+{
+    "success": 1,
+    "results": [
+        {
+            "id": "561942",
+            "sport_id": "1",
+            "time": "1512792090",
+            "time_status": "1",
+            "league": {
+                "id": "934",
+                "name": "Japan L1 League Women",
+                "cc": "jp"
+            },
+            "home": {
+                "id": "52056",
+                "name": "Cerezo Osaka Women",
+                "image_id": "364278",
+                "cc": "jp"
+            },
+            "away": {
+                "id": "54127",
+                "name": "Elfen Sayama Women",
+                "image_id": null,
+                "cc": null
+            },
+            "ss": "0-0",
+            "timer": {
+                "tm": 4,
+                "ts": 44,
+                "tt": "1",
+                "ta": 0
+            },
+            "scores": {
+                "2": {
+                    "home": "0",
+                    "away": "0"
+                }
+            },
+            "stats": {
+                "attacks": [
+                    "4",
+                    "3"
+                ],
+                "corners": [
+                    "1",
+                    "1"
+                ],
+                "dangerous_attacks": [
+                    "4",
+                    "2"
+                ],
+                "goals": [
+                    "0",
+                    "0"
+                ],
+                "off_target": [
+                    "1",
+                    "1"
+                ],
+                "on_target": [
+                    "1",
+                    "0"
+                ],
+                "penalties": [
+                    "0",
+                    "0"
+                ],
+                "possession_rt": [
+                    "65",
+                    "35"
+                ],
+                "redcards": [
+                    "0",
+                    "0"
+                ],
+                "substitutions": [
+                    "0",
+                    "0"
+                ],
+                "yellowcards": [
+                    "0",
+                    "0"
+                ]
+            },
+            "events": [
+                {
+                    "id": "39601174",
+                    "text": "3' - 1st Corner - Cerezo Osaka Women"
+                },
+                {
+                    "id": "39601200",
+                    "text": "5' - 2nd Corner - Elfen Sayama Women"
+                }
+            ],
+            "extra": {
+                "length": "90",
+                "pitch": "Excellent",
+                "weather": "Cold"
+            },
+            "has_lineup": 0
+        }
+    ]
+}
