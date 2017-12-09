@@ -10,7 +10,7 @@
 
 Parameter | Required? | Description
 --------- | ------- | -----------
-sport_id | No | R-SportID (only 1-Soccer, 3-Cricket are supported now)
+sport_id | No | R-SportID (only 1-Soccer, 18-Basketball, 3-Cricket are supported now)
 page | No | R-Pager
 
 ## HTTP Response

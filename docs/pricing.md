@@ -17,6 +17,10 @@ Package **Bet365 API** is required.
 
 Package **BWin API** is required.
 
+### for Betway API
+
+Package **Betway API** is required.
+
 ### Everything API
 
 It can access all the APIs. and it includes **Standalone Server**

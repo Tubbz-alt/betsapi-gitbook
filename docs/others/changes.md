@@ -1,5 +1,8 @@
 # Changes
 
+### 2017-12-09
+  * add Betway API
+
 ### 2017-12-08
   * switch docs to gitbook
   * add Betsson Result
