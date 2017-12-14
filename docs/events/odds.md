@@ -33,3 +33,5 @@ Error Value | Description
 18_1 | Money Line
 18_2 | Spread
 18_3 | Total Points
+3_1, 12_1, 36_1, 151_1 | Match Winner 2-Way
+3_4 | Draw No Bet
