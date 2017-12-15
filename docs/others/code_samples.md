@@ -24,8 +24,21 @@ print_r( json_decode($data) );
 
 ```python
 import requests, json
-url = "https://api.betsapi.com/v1/events/ended?token=YOUR_TOKEN&sport_id=1"
 
+url = "https://api.betsapi.com/v1/events/ended?token=YOUR_TOKEN&sport_id=1"
 res = requests.get(url)
 print(json.loads(res.text))
+```
+
+## Perl
+
+```perl
+use strict;
+use warnings;
+use Mojo::UserAgent;
+use Data::Dumper;
+
+my $url = "https://api.betsapi.com/v1/events/ended?token=YOUR_TOKEN&sport_id=1";
+my $ua = Mojo::UserAgent->new;
+print Dumper($ua->get($url)->result->json);
 ```
