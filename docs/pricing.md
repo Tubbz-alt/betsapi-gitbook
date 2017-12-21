@@ -33,4 +33,4 @@ By default all apis are limited with 3600 requests per hour. you can buy **Volum
 
 ### Trial
 
-We only cheap trial packages. but you're only allowed to buy it 3 times at max (for each)
+We provide cheap trial packages. but you're only allowed to buy it 3 times at max (for each)

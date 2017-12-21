@@ -23,11 +23,10 @@ print_r( json_decode($data) );
 ## Python
 
 ```python
-import requests, json
+import requests
 
 url = "https://api.betsapi.com/v1/events/ended?token=YOUR_TOKEN&sport_id=1"
-res = requests.get(url)
-print(json.loads(res.text))
+print(requests.get(url).json())
 ```
 
 ## Perl
@@ -39,6 +38,5 @@ use Mojo::UserAgent;
 use Data::Dumper;
 
 my $url = "https://api.betsapi.com/v1/events/ended?token=YOUR_TOKEN&sport_id=1";
-my $ua = Mojo::UserAgent->new;
-print Dumper($ua->get($url)->result->json);
+print Dumper(Mojo::UserAgent->new->get($url)->result->json);
 ```
