@@ -12,6 +12,7 @@ Parameter | Required? | Description
 --------- | ------- | -----------
 day | No | format YYYYMMDD, eg: 20161201
 sport_id | No | BWin sport_id
+league_id | No | BWin LeagueId
 
 ## HTTP Response
 
