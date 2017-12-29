@@ -16,6 +16,7 @@
 * [Event Odds](events/odds.md)
 * [Event Stats Trend](events/stats_trend.md)
 * [Event Lineup](events/lineup.md)
+* [Event Videos](events/videos.md)
 * [League](events/league.md)
 * [League Table](events/league_table.md)
 * [League TopList](events/league_toplist.md)
