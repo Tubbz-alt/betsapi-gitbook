@@ -26,6 +26,7 @@
 ### Bet365 API
 
 * [Bet365 InPlay](bet365/inplay.md)
+* [Bet365 InPlay Filter](bet365/inplay_filter.md)
 * [Bet365 Inplay Event](bet365/event.md)
 * [Bet365 Upcoming Events](bet365/upcoming.md)
 * [Bet365 PreMatch Odds](bet365/prematch.md)

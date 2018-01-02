@@ -1,0 +1,29 @@
+{
+    "success": 1,
+    "pager": {
+        "page": 1,
+        "per_page": 50,
+        "total": 1
+    },
+    "results": [
+        {
+            "id": "70043855",
+            "time": "1514872800",
+            "time_status": "1",
+            "league": {
+                "id": "1543",
+                "name": "Japan B League 2"
+            },
+            "home": {
+                "id": "52079",
+                "name": "Earth Friends Tokyo Z"
+            },
+            "away": {
+                "id": "79680",
+                "name": "Gunma Crane Thunders"
+            },
+            "ss": "32-35",
+            "our_event_id": "561800"
+        }
+    ]
+}
