@@ -12,7 +12,7 @@ use [League](events/league.md) API with cc=br. For example: https://api.betsapi.
 
 ### How can I get the team logo links?
 
-When you get *image_id* from API, you can replace the _1_ below with the image_id:
+When you get **image_id** from API, you can replace the _1_ below with the image_id:
 
  * small https://assets.bsportsfan.com/images/team/s/1.png
  * medium https://assets.bsportsfan.com/images/team/m/1.png
