@@ -58,6 +58,7 @@
 ### Others
 
 * [FAQ](others/faq.md)
+* [Glossary](GLOSSARY.md)
 * [Changes](others/changes.md)
 * [Code Samples](others/code_samples.md)
 

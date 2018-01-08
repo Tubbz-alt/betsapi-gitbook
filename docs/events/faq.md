@@ -10,6 +10,14 @@ Afterwards, pass each **league_id** in [Events](events/ended.md) API with pager.
 
 use [League](events/league.md) API with cc=br. For example: https://api.betsapi.com/v1/league?token=YOUR-TOKEN&sport_id=1&cc=br
 
+### How can I get the team logo links?
+
+When you get *image_id* from API, you can replace the _1_ below with the image_id:
+
+ * small https://assets.bsportsfan.com/images/team/s/1.png
+ * medium https://assets.bsportsfan.com/images/team/m/1.png
+ * big https://assets.bsportsfan.com/images/team/b/1.png
+
 ### Do you provide languages other than English?
 
 Yes, we do. Pass LNG_ID as one of the param in GET for specified language.
