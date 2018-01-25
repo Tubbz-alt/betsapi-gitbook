@@ -9,21 +9,19 @@ Please [contact us](https://betsapi.com/contactus) if you have any problem.
 ## Authentication
 
 > To authorize, use this code:
-> Make sure to replace `YOUR-TOKEN` with your token.
-
-```shell
-curl "api_endpoint_here" -H "X-API-TOKEN: YOUR-TOKEN"
-```
+> Make sure replace `YOUR-TOKEN` with your real token.
 
 ```shell
 curl "api_endpoint_here?token=YOUR-TOKEN"
 ```
 
-You will get a **token** from our support or [Orders](/mm/orders) page. you can either pass it in header **X-API-TOKEN** or pass as token= in GET query.
+You will get a **token** from our support or [Orders](/mm/orders) page. you should pass it as token= in GET query.
 
 ## API Endpoints
 
 API endpoint is started with [https://api.betsapi.com/v1](https://api.betsapi.com/v1)
+
+We have another load balancer API endpoint as [https://api.b365api.com/](https://api.betsapi.com/) in case api.betsapi.com is down.
 
 ## Rate Limatation
 
