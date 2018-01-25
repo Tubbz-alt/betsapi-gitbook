@@ -21,7 +21,7 @@ You will get a **token** from our support or [Orders](/mm/orders) page. you shou
 
 API endpoint is started with [https://api.betsapi.com/v1](https://api.betsapi.com/v1)
 
-We have another load balancer API endpoint as [https://api.b365api.com/](https://api.betsapi.com/) in case api.betsapi.com is down.
+We have another load balancer API endpoint as [https://api.b365api.com/](https://api.b365api.com/) in case you have issues with api.betsapi.com.
 
 ## Rate Limatation
 
