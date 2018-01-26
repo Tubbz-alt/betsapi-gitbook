@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-01-26
+  * more bookmakers (Nitrogen)
+
 ### 2017-12-09
   * add Betway API
 
