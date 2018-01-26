@@ -23,7 +23,7 @@ Package **Betway API** is required.
 
 ### Everything API
 
-It can access all the APIs. and it includes **Volume 1** package
+It can access all the APIs. and it includes **Volume One** package
 
 ### Volume Packages
 
