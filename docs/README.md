@@ -33,7 +33,7 @@ X-RateLimit-Reset:1495857600
 
 3600 requests per hour.
 
-You can pay extra 50$ to setup standalone server with 199,999 requests per hour.
+You can buy **Volume Packages** to increase the hourly rate limitation from 199,999 to 799,999 requests per hour.
 
 You can check the values in headers:
 
