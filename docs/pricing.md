@@ -17,6 +17,10 @@ Package **Bet365 API** is required.
 
 Package **BWin API** is required.
 
+### for Betfair API
+
+Package **Betfair API** is required.
+
 ### for Betway API
 
 Package **Betway API** is required.
