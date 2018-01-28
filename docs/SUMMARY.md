@@ -41,6 +41,13 @@
 * [BWin Prematch Odds](bwin/prematch.md)
 * [BWin Result](bwin/result.md)
 
+### Betfair API
+
+* [Betfair InPlay](betfair/inplay.md)
+* [Betfair Upcoming](betfair/upcoming.md)
+* [Betfair Event](betfair/event.md)
+* [Betfair Result](betfair/result.md)
+
 ### Betway API
 
 * [Betway InPlay](betway/inplay.md)

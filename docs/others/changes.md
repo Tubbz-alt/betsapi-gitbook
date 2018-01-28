@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-01-28
+  * add Betfair API
+
 ### 2018-01-26
   * more bookmakers (Nitrogen)
 
