@@ -11,7 +11,7 @@
 Parameter | Required? | Description
 --------- | ------- | -----------
 event_id | Yes | Event ID you get from events/*
-source | No | Possible value: bet365, 10bet, ladbrokes, williamhill, betclic, pinnaclesports, planetwin365, ysb88, 188bet, unibet, bwin, betfair, betfred, cloudbet, betsson, betdaq, paddypower, sbobet, titanbet, betathome, dafabet, marathonbet, betvictor, intertops, betredkings, interwetten, 1xbet, nitrogensports. defaults to bet365.
+source | No | Possible value: bet365, 10bet, ladbrokes, williamhill, betclic, pinnaclesports, planetwin365, ysb88, 188bet, unibet, bwin, betfair, betfred, cloudbet, betsson, betdaq, paddypower, sbobet, titanbet, betathome, dafabet, marathonbet, betvictor, intertops, betredkings, interwetten, betway, 1xbet, nitrogensports, winner. defaults to bet365.
 since_time | No | Integer. add_time will be >= $since_time in results. Faster to get only updates.
 
 ## HTTP Response
@@ -35,3 +35,4 @@ Error Value | Description
 18_3 | Total Points
 3_1, 12_1, 36_1, 151_1 | Match Winner 2-Way
 3_4 | Draw No Bet
+

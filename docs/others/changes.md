@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-02-21
+  * more bookmakers (Winner.co.uk)
+
 ### 2018-01-28
   * add Betfair API
 
