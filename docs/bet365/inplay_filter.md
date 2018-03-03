@@ -12,8 +12,8 @@ Parameter | Required? | Description
 --------- | ------- | -----------
 sport_id | Yes | R-SportID
 league_id | No | useful when you want only one league
-day | No | format YYYYMMDD, eg: 20161201
-page | No | R-Pager
+
+> Note there is no pager in this API call. we just return all events.
 
 ## HTTP Response
 
