@@ -18,4 +18,6 @@ event_id | Yes | Event ID (FI) from Bet365 Inplay
 
 ## HTTP Response
 
+> league.id/home.id/away.id returned from bet365/result might be different than bet365/upcoming.
+
 <a href="../samples/bet365_result.json" target="_blank">bet365_result.json</a>
