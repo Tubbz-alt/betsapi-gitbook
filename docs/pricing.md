@@ -31,7 +31,7 @@ It can access all the APIs. and it includes **Volume One** package
 
 ### Volume Packages
 
-By default all apis are limited with 3600 requests per hour. you can buy **Volume Packages** to increases the hourly rate limitation.
+By default all APIs are limited with 3600 requests per hour. you can buy **Volume Packages** to increases the hourly rate limitation.
 
 **It does not provide any API acess.**
 
