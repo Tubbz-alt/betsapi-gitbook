@@ -18,4 +18,7 @@ event_id | Yes | eventid from BWin API
 
 ## HTTP Response
 
+> league.id/home.id/away.id returned here are our Event IDs. it's not BWin IDs.
+> Team might be in reversed order than BWin. Be aware.
+
 <a href="../samples/bwin_result.json" target="_blank">bwin_result.json</a>

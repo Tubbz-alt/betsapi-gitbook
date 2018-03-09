@@ -18,4 +18,7 @@ event_id | Yes | Event Id from Betfair API
 
 ## HTTP Response
 
+> league.id/home.id/away.id returned here are our Event IDs. it's not Betfair IDs.
+> Team might be in reversed order than Betfair. Be aware.
+
 <a href="../samples/betfair_result.json" target="_blank">betfair_result.json</a>

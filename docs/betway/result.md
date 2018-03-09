@@ -18,4 +18,7 @@ event_id | Yes | Event Id from Betway API
 
 ## HTTP Response
 
+> league.id/home.id/away.id returned here are our Event IDs. it's not Betway IDs.
+> Team might be in reversed order than Betway. Be aware.
+
 <a href="../samples/betway_result.json" target="_blank">betway_result.json</a>
