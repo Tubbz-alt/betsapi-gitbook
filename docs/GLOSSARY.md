@@ -31,7 +31,7 @@ PARAM_INVALID | param is invalid, check error_detail for details
 
 ## R-Countries
 
-[countries.json](samples/countries.json)
+<a href="../samples/countries.json" target="_blank">countries.json</a>
 
 ## R-Pager
 
