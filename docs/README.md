@@ -15,7 +15,7 @@ Please [contact us](https://betsapi.com/contactus) if you have any problem.
 curl "api_endpoint_here?token=YOUR-TOKEN"
 ```
 
-You will get a **token** from our support or [Orders](/mm/orders) page. you should pass it as token= in GET query.
+You will get a **token** from our support or [Orders](https://betsapi.com/mm/orders) page. you should pass it as token= in GET query.
 
 ## API Endpoints
 
