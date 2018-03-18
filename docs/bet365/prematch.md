@@ -4,7 +4,7 @@
 
 `GET https://api.betsapi.com/v1/bet365/start_sp`
 
-> curl "https://api.betsapi.com/v1/bet365/start_sp?token=YOUR_TOKEN&event_id=60504279"
+> curl "https://api.betsapi.com/v1/bet365/start_sp?token=YOUR_TOKEN&FI=60504279"
 
 ### URL Parameters
 
