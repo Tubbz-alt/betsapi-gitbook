@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-03-21
+  * add 'injuries' in League TopList
+
 ### 2018-02-21
   * more bookmakers (Winner.co.uk)
 
