@@ -1,4 +1,5 @@
 {
-    "title": "BetsAPI",
+    "title": "Live Sports, Betting Odds API - BetsAPI",
+    "description": "Welcome to BetsAPI - Our aim is to provide best services for sports data APIs for all kind of sports worldwide which include Soccer, Handball, Cricket, Tennis, Basketball, Volleyball etc. To use our APIs, you have to pay a reasonable price on monthly basis. For any further queries, please contact us.",
     "root": "./docs"
 }
