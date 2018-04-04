@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-04-04
+  * more bookmakers (BetRegal)
+
 ### 2018-03-21
   * add 'injuries' in League TopList
 
