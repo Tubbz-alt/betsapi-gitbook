@@ -21,6 +21,7 @@
 * [League Table](events/league_table.md)
 * [League TopList](events/league_toplist.md)
 * [Team](events/team.md)
+* [Team Squad](events/team_squad.md)
 * [FAQ](events/faq.md)
 
 ### Bet365 API
