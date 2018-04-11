@@ -1,5 +1,11 @@
 # Changes
 
+### 2018-04-08
+  * add stats.odds_update in Odds Summary
+
+### 2018-04-06
+  * Team Squad
+
 ### 2018-04-04
   * more bookmakers (BetRegal)
 

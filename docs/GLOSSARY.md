@@ -57,3 +57,4 @@ Error Value | Description
 7 | Interrupted
 8 | Abandoned
 9 | Retired
+99 | Removed
