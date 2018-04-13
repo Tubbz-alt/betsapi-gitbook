@@ -47,6 +47,7 @@
 * [Betfair InPlay](betfair/inplay.md)
 * [Betfair Upcoming](betfair/upcoming.md)
 * [Betfair Event](betfair/event.md)
+* [Betfair Timeline](betfair/timeline.md)
 * [Betfair Result](betfair/result.md)
 
 ### Betway API
