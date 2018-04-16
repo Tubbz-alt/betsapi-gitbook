@@ -10,7 +10,7 @@
 
 Parameter | Required? | Description
 --------- | ------- | -----------
-event_id | Yes | Event ID you get from /betfair/inplay or upcoming
+event_id | Yes | Event ID you get from /betfair/inplay
 
 > you can send multiple event_ids in one request with event_id=1,2,3,4 up to max 10 ids.
 

@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-04-16
+  * Bet365 Inplay supports for Greyhounds/Horse Racing
+
 ### 2018-04-08
   * add stats.odds_update in Odds Summary
 
