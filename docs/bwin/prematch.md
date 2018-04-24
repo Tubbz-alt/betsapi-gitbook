@@ -22,7 +22,12 @@ league_id | No | BWin LeagueId
 
 sport_id | Name | sport_id | Name
 ---------- | ------- | -------- | -------
-1  | Football | 7522 | Basketball
-2  | Tennis | 998917 | Volleyball
-468328 | Handball | 7524 | Ice Hockey
-4 | Cricket | 5 | Rugby Union
+4  | Football | 7 | Basketball
+5  | Tennis | 18 | Volleyball
+16 | Handball | 23 | Baseball
+12 | Ice Hockey | 33 | Snooker
+11 | American Football | 22 | Cricket
+70 | Futsal | 34 | Darts
+56 | Table Tennis | 44 | Badminton
+32 | Rugby Union | 31 | Rugby League
+24 | Boxing | 36 | Aussie Rules
