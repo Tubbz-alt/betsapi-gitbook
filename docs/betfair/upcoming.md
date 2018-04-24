@@ -20,7 +20,7 @@ page | No | R-Pager
 
 ## Betfair eventTypeId
 
-sport_id | Name | sport_id | Name
+eventTypeId | Name | eventTypeId | Name
 ---------- | ------- | -------- | -------
 1  | Football | 7522 | Basketball
 2  | Tennis | 998917 | Volleyball

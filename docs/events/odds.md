@@ -62,7 +62,7 @@ CloudBet | Yes/Yes | Yes/Yes | Part-of/Part-of
 Betsson  | Yes/No  | Yes/No | No/No
 Betdaq   | No/Yes | No/Yes | No/No
 PaddyPower | Yes/No | No/No | No/No
-SBOBET | No/Yes | No/Yes | No/No
+SBOBET | Yes/Yes | No/Yes | No/No
 TitanBet | Yes/Yes | No/No | No/No
 BetAtHome | No/Yes | No/Yes | No/Part-of
 DafaBet | Yes/No | Yes/No | Part-of/No
