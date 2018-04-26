@@ -15,6 +15,8 @@ source | No | Possible value: bet365, 10bet, ladbrokes, williamhill, betclic, pi
 since_time | No | Integer. add_time will be >= $since_time in results. Faster to get only updates.
 odds_market | No | String. if you only need one (or few) market to save time/bandwidth, pass the related string like &odds_market=1 or &odds_market=2,3 etc.
 
+> Note *odds_market* is not 1\_1, just pass the part after \_
+
 ## HTTP Response
 
 <a href="../samples/event_odds.json" target="_blank">event_odds.json</a>
@@ -59,7 +61,7 @@ UniBet | Yes/Yes | Yes/Yes | No/No
 BetFred | No/Yes | No/Yes | No/Part-of
 888Sport | Yes/Yes | Yes/Yes | No/No
 CloudBet | Yes/Yes | Yes/Yes | Part-of/Part-of
-Betsson  | Yes/No  | Yes/No | No/No
+Betsson  | Yes/Yes  | Yes/Yes | No/No
 Betdaq   | No/Yes | No/Yes | No/No
 PaddyPower | Yes/No | No/No | No/No
 SBOBET | Yes/Yes | No/Yes | No/No
