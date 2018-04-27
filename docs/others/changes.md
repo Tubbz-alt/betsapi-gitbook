@@ -1,7 +1,7 @@
 # Changes
 
 ### 2018-04-19
-  * more bookmakers (SkyBet)
+  * more bookmakers (SkyBet, MarsBet)
 
 ### 2018-04-16
   * Bet365 Inplay supports for Greyhounds/Horse Racing
