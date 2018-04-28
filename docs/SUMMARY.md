@@ -50,6 +50,13 @@
 * [Betfair Timeline](betfair/timeline.md)
 * [Betfair Result](betfair/result.md)
 
+### Sbobet API
+
+* [Sbobet InPlay](sbobet/inplay.md)
+* [Sbobet Upcoming](sbobet/upcoming.md)
+* [Sbobet Event](sbobet/event.md)
+* [Sbobet Result](sbobet/result.md)
+
 ### Betway API
 
 * [Betway InPlay](betway/inplay.md)
