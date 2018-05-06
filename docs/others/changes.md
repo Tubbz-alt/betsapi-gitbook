@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-04-28
+  * Sbobet API
+
 ### 2018-04-19
   * more bookmakers (SkyBet, MarsBet)
 
