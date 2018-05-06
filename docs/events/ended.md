@@ -23,7 +23,7 @@ page | No | R-Pager
 
 [ended.json](../samples/ended.json)
 
-## Changes
+### Changes
 
-### 2018-05-06 /v2/
+#### 2018-05-06 /v2/
   * ?day=TODAY will only get ended events instead of all

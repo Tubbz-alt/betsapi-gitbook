@@ -23,7 +23,7 @@ page | No | R-Pager
 
 <a href="../samples/upcoming.json" target="_blank">upcoming.json</a>
 
-## Changes
+### Changes
 
-### 2018-05-06 /v2/
+#### 2018-05-06 /v2/
   * ?day=TODAY will only get upcoming events instead of all

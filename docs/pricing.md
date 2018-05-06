@@ -25,6 +25,10 @@ Package **Betfair API** is required.
 
 Package **Betway API** is required.
 
+### for SboBet API
+
+Package **SboBet API** is required.
+
 ### Everything API
 
 It can access all the APIs. and it includes **Volume One** package

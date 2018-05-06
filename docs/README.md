@@ -19,7 +19,7 @@ You will get a **token** from our support or [Orders](https://betsapi.com/mm/ord
 
 ## API Endpoints
 
-API endpoint is started with [https://api.betsapi.com/v1](https://api.betsapi.com/v1)
+API endpoint is started with [https://api.betsapi.com/](https://api.betsapi.com/)
 
 We have another load balancer API endpoint as [https://api.b365api.com/](https://api.b365api.com/) in case you have issues with api.betsapi.com.
 
