@@ -1,10 +1,10 @@
-# Betfair Upcoming
+# Betfair Sportsbook Upcoming
 
 ## HTTP Request
 
-`GET https://api.betsapi.com/v1/betfair/upcoming`
+`GET https://api.betsapi.com/v1/betfair/sb/upcoming`
 
-> curl "https://api.betsapi.com/v1/betfair/upcoming?sport_id=1&token=YOUR-TOKEN"
+> curl "https://api.betsapi.com/v1/betfair/sb/upcoming?sport_id=1&token=YOUR-TOKEN"
 
 ### Query Parameters
 
@@ -16,7 +16,7 @@ page | No | R-Pager
 
 ## HTTP Response
 
-<a href="../samples/betfair_upcoming.json" target="_blank">betfair_upcoming.json</a>
+<a href="../samples/betfair_sb_upcoming.json" target="_blank">betfair_sb_upcoming.json</a>
 
 ## Betfair eventTypeId
 

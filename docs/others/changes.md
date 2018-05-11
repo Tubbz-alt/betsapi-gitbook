@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-05-10
+  * split Sportsbook and Exchange for BetFair
+
 ### 2018-04-28
   * Sbobet API
 

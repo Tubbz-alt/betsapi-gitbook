@@ -23,9 +23,9 @@ odds_market | No | String. if you only need one (or few) market to save time/ban
 
 ## Odds Markets
 
-Error Value | Description
+Market Key | Description
 ---------- | -------
-1_1 | 1X2
+1_1 | 1X2, Full Time Result
 1_2 | Asian Handicap
 1_3 | O/U, Goal Line
 1_4 | Asian Corners

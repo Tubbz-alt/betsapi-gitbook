@@ -1,0 +1,40 @@
+{
+    "success": 1,
+    "pager": {
+        "page": 1,
+        "per_page": 50,
+        "total": 2
+    },
+    "results": [
+        {
+            "id": "28712328",
+            "sport_id": "4",
+            "time": "1526012100",
+            "time_status": "1",
+            "home": {
+                "id": "38993",
+                "name": "Dambulla"
+            },
+            "away": {
+                "id": "38992",
+                "name": "Colombo"
+            },
+            "our_event_id": "0"
+        },
+        {
+            "id": "28712329",
+            "sport_id": "4",
+            "time": "1526012100",
+            "time_status": "1",
+            "home": {
+                "id": "38991",
+                "name": "Galle"
+            },
+            "away": {
+                "id": "38990",
+                "name": "Kandy"
+            },
+            "our_event_id": "0"
+        }
+    ]
+}

@@ -44,9 +44,13 @@
 
 ### Betfair API
 
-* [Betfair InPlay](betfair/inplay.md)
-* [Betfair Upcoming](betfair/upcoming.md)
-* [Betfair Event](betfair/event.md)
+* [Betfair Summary](betfair/SUMMARY.md)
+* [Betfair SportsBook InPlay](betfair/sb_inplay.md)
+* [Betfair SportsBook Upcoming](betfair/sb_upcoming.md)
+* [Betfair SportsBook Event](betfair/sb_event.md)
+* [Betfair Exchange InPlay](betfair/ex_inplay.md)
+* [Betfair Exchange Upcoming](betfair/ex_upcoming.md)
+* [Betfair Exchange Event](betfair/ex_event.md)
 * [Betfair Timeline](betfair/timeline.md)
 * [Betfair Result](betfair/result.md)
 
