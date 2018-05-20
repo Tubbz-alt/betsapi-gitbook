@@ -1,5 +1,9 @@
 # Changes
 
+### 2018-05-20
+  * more bookmakers (VBet)
+  * add 'Formula 1' in BWin API
+
 ### 2018-05-10
   * split Sportsbook and Exchange for BetFair
 
