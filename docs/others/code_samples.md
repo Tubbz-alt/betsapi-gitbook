@@ -22,6 +22,8 @@ print_r( json_decode($data) );
 
 ## Python
 
+ * [Unofficial SDK](https://github.com/qwqmeow/betsapi-python)
+
 ```python
 import requests
 
