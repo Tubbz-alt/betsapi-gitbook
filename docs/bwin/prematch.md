@@ -31,4 +31,6 @@ sport_id | Name | sport_id | Name
 56 | Table Tennis | 44 | Badminton
 32 | Rugby Union | 31 | Rugby League
 24 | Boxing | 36 | Aussie Rules
-6  | Formula 1
+6  | Formula 1 | 13 | Golf
+40 | Motorbikes | 10 | Cycling
+9  | Alpine Skiing | 64 | Biathlon
