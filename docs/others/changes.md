@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-08-29
+  * add 'Tennis Ranking' API
+
 ### 2018-05-20
   * more bookmakers (VBet)
   * add 'Formula 1' in BWin API
