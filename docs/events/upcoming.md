@@ -17,13 +17,16 @@ league_id | No | useful when you want only one league
 team_id | No | useful when you want only one team
 cc | No | Eg: 'co' for Colombia (R-Countries)
 day | No | format YYYYMMDD, eg: 20161201
-page | No | R-Pager
+page | No | R-Pager, max 1000
 
 ## HTTP Response
 
 <a href="../samples/upcoming.json" target="_blank">upcoming.json</a>
 
 ### Changes
+
+#### 2018-08-14
+  * limit max **page** to 1000 due to SQL LIMIT performance (use day= for fixture data)
 
 #### 2018-05-06 /v2/
   * ?day=TODAY will only get upcoming events instead of all
