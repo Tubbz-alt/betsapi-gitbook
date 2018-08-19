@@ -21,5 +21,5 @@ page | No | R-Pager
 
 eventTypeId | Name
 ---------- | -------
-4 | Cricket
+4 | Cricket | 1 | Football
 

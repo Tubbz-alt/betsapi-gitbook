@@ -1,6 +1,9 @@
 # Changes
 
-### 2018-08-29
+### 2018-08-19
+  * Betfair Exchange API - add sport (Soccer)
+
+### 2018-07-29
   * add 'Tennis Ranking' API
 
 ### 2018-05-20
