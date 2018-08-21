@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-08-21
+  * Event Merge History API
+
 ### 2018-08-19
   * Betfair Exchange API - add sport (Soccer)
 

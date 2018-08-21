@@ -23,6 +23,7 @@
 * [Team](events/team.md)
 * [Team Squad](events/team_squad.md)
 * [Tennis Ranking](events/tennis_ranking.md)
+* [Merge History](events/merge_history.md)
 * [FAQ](events/faq.md)
 
 ### Bet365 API
