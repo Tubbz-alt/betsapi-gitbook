@@ -27,6 +27,7 @@ page | No | R-Pager, max 1000 (max 100 on weekend)
 
 #### 2018-09-01
   * due to SQL LIMIT performance issue, we only allow max page=100 on weekend. Sorry
+  * please use day= for fixture data
 
 #### 2018-08-14
   * limit max **page** to 1000 due to SQL LIMIT performance (use day= for fixture data)

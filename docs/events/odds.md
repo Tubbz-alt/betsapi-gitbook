@@ -21,6 +21,8 @@ odds_market | No | String. if you only need one (or few) market to save time/ban
 
 <a href="../samples/event_odds.json" target="_blank">event_odds.json</a>
 
+> Note that the **id** inside is unique for each bookmaker. it's not unique across the bookmakers.
+
 ## Odds Markets
 
 Market Key | Description
