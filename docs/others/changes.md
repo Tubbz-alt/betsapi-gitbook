@@ -1,5 +1,8 @@
 # Changes
 
+### 2018-09-07
+  * Player API
+
 ### 2018-08-21
   * Event Merge History API
 

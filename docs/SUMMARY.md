@@ -22,12 +22,14 @@
 * [League TopList](events/league_toplist.md)
 * [Team](events/team.md)
 * [Team Squad](events/team_squad.md)
+* [Player](events/player.md)
 * [Tennis Ranking](events/tennis_ranking.md)
 * [Merge History](events/merge_history.md)
 * [FAQ](events/faq.md)
 
 ### Bet365 API
 
+* [Bet365 Summary](bet365/SUMMARY.md)
 * [Bet365 InPlay](bet365/inplay.md)
 * [Bet365 InPlay Filter](bet365/inplay_filter.md)
 * [Bet365 Inplay Event](bet365/event.md)

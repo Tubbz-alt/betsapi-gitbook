@@ -14,6 +14,7 @@ sport_id | Name | sport_id | Name
 9 | Boxing/UFC | 75 | Gaelic Sports
 90 | Floorball | 95 | Beach Volleyball
 110 | Water Polo | 107 | Squash
+151 | E-sports
 
 ## R-Errors
 
