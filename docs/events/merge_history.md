@@ -14,6 +14,7 @@ both of IDs will return the same data in /event/view API.
 Parameter | Required? | Description
 --------- | ------- | -----------
 since_time | No | Integer. created_at will be >= $since_time in results. Faster to get only updates.
+page | No | R-Pager
 
 ## HTTP Response
 

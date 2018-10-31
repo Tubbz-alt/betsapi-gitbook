@@ -4,6 +4,8 @@ Check [Pricing](https://betsapi.com/mm/pricing) for details, or [contact us](htt
 
 ## Packages
 
+Different package covers different API. If you don't know where to start, give Everything Trial a try.
+
 ### for Events API
 
  * For all sports, you need **All Events API**
@@ -42,3 +44,8 @@ By default all APIs are limited with 3600 requests per hour. you can buy **Volum
 ### Trial
 
 We provide cheap trial packages. but you're only allowed to buy it 3 times at max (for each)
+
+## Tips
+
+ * Events API has history data but limited odds markets
+ * Bet365/BWin/Betfair/Betway/SboBet API has all odds markets that you can find in related website

@@ -41,3 +41,8 @@ LNG_ID | Description
 ### how to convert Unix time epoch (eg: 1514543400) into datetime?
 
 [Convert from epoch to human readable date](https://www.epochconverter.com/)
+
+### What's "Handicap"?
+
+[https://en.wikipedia.org/wiki/Asian_handicap](https://en.wikipedia.org/wiki/Asian_handicap)
+

@@ -23,7 +23,13 @@ page | No | R-Pager, max 1000 (max 100 on weekend)
 
 <a href="../samples/upcoming.json" target="_blank">upcoming.json</a>
 
-### Changes
+### what's the format and timezone for 'time' field?
+
+It's unix epoch. [Convert from epoch to human readable date](https://www.epochconverter.com/)
+
+The timezone is UTC.
+
+## Changes
 
 #### 2018-09-01
   * due to SQL LIMIT performance issue, we only allow max page=100 on weekend. Sorry
