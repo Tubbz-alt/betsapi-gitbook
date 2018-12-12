@@ -6,6 +6,7 @@
 * [Pricing/Packages](pricing.md)
 
 ### Events API
+* [Summary](events/SUMMARY.md)
 * [Inplay Events](events/inplay.md)
 * [Upcoming Events](events/upcoming.md)
 * [Ended Events](events/ended.md)

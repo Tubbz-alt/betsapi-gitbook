@@ -4,9 +4,9 @@
 
 ## HTTP Request
 
-`GET https://api.betsapi.com/v1/league/table`
+`GET https://api.betsapi.com/v2/league/table`
 
-> curl "https://api.betsapi.com/v1/league/table?token=YOUR_TOKEN&league_id=94"
+> curl "https://api.betsapi.com/v2/league/table?token=YOUR_TOKEN&league_id=94"
 
 ### URL Parameters
 
