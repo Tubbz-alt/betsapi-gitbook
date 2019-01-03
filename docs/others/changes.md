@@ -1,5 +1,11 @@
 # Changes
 
+### 2019-01-03
+  * add 'promotion' in League Table
+
+### 2018-12-29
+  * add language sv_SE (Svenska)
+
 ### 2018-09-07
   * Player API
 
