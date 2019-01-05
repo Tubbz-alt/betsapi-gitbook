@@ -1,5 +1,8 @@
 # Changes
 
+### 2019-01-05
+  * more bookmaker (CashPoint)
+
 ### 2019-01-03
   * add 'promotion' in League Table
 
