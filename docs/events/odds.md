@@ -2,9 +2,10 @@
 
 ## HTTP Request
 
-`GET https://api.betsapi.com/v1/event/odds`
+`GET https://api.betsapi.com/v2/event/odds`
 
-> curl "https://api.betsapi.com/v1/event/odds?token=YOUR_TOKEN&event_id=92149"
+> curl "https://api.betsapi.com/v2/event/odds?token=YOUR_TOKEN&event_id=1260046"
+>> NOTE it is **/v2/** instead of /v1/
 
 ### URL Parameters
 
@@ -23,22 +24,25 @@ odds_market | No | String. if you only need one (or few) market to save time/ban
 
 > Note that the **id** inside is unique for each bookmaker. it's not unique across the bookmakers.
 
+ * stats.matching_dir == -1 means it's "reversed" matching
+ * stats.odds_update means the last time we checked the market (will be gone after the event is finished)
+
 ## Odds Markets
 
-Market Key | Description
----------- | -------
-1_1 | 1X2, Full Time Result
-1_2 | Asian Handicap
-1_3 | O/U, Goal Line
-1_4 | Asian Corners
-1_5 | 1st Half Asian Handicap
-1_6 | 1st Half Goal Line
-1_7 | 1st Half Asian Corners
-1_8 | Half Time Result
-18_1 | Money Line
-18_2 | Spread
-18_3 | Total Points
-3_1, 12_1, 36_1, 151_1 | Match Winner 2-Way
+Market Key | Description | Market Key | Description
+---------- | ------- | ---------- | -------
+1_1 | 1X2, Full Time Result | 1_2 | Asian Handicap
+1_3 | O/U, Goal Line | 1_4 | Asian Corners
+1_5 | 1st Half Asian Handicap | 1_6 | 1st Half Goal Line
+1_7 | 1st Half Asian Corners | 1_8 | Half Time Result
+18_1 | Money Line | 18_2 | Spread
+18_3 | Total Points | 18_4 | Money Line (Half)
+18_5 | Spread (Half) | 18_6 | Total Points (Half)
+18_7 | Quarter - Winner (2-Way) | 18_8 | Quarter - Handicap
+18_9 | Quarter - Total (2-Way)
+*_1 | Match Winner 2-Way
+*_2 | Asian Handicap
+*_3 | Over/Under
 3_4 | Draw No Bet
 
 ## Coverage
@@ -81,3 +85,9 @@ Winner | Yes/Yes | No/No | No/No
 BetRegal | No/Yes | No/Yes | No/Part-of
 SkyBet | No/Yes | No/No | No/No
 MarsBet | No/Yes | No/No | No/No
+
+### Changes
+
+#### 2019-01-08 /v2/
+  * added stats.matching_dir and odds_update
+  * renamed 18_1_h to 18_4, 18_2_h to 18_5, 18_3_h to 18_6, added 18_7 Quarter - Winner (2-Way)
