@@ -10,7 +10,7 @@
 
 Parameter | Required? | Description
 --------- | ------- | -----------
-sport_id | Yes | R-SportID
+sport_id | No | R-SportID
 league_id | No | useful when you want only one league
 
 > Note there is no pager in this API call. we just return all events.
@@ -20,3 +20,8 @@ league_id | No | useful when you want only one league
 <a href="../samples/bet365_inplay_filter.json" target="_blank">bet365_inplay_filter.json</a>
 
 > league.id/home.id/away.id returned from bet365/inplay_filter might be different than event/inplay.
+
+### Changes
+
+#### 2019-01-08
+  * sport_id is not required anymore
