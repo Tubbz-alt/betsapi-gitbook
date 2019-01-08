@@ -6,7 +6,7 @@
 * [Pricing/Packages](pricing.md)
 
 ### Events API
-* [Summary](events/SUMMARY.md)
+* [Summary](events/index.md)
 * [Inplay Events](events/inplay.md)
 * [Upcoming Events](events/upcoming.md)
 * [Ended Events](events/ended.md)
@@ -30,7 +30,7 @@
 
 ### Bet365 API
 
-* [Bet365 Summary](bet365/SUMMARY.md)
+* [Bet365 Summary](bet365/index.md)
 * [Bet365 InPlay](bet365/inplay.md)
 * [Bet365 InPlay Filter](bet365/inplay_filter.md)
 * [Bet365 Inplay Event](bet365/event.md)
@@ -49,7 +49,7 @@
 
 ### Betfair API
 
-* [Betfair Summary](betfair/SUMMARY.md)
+* [Betfair Summary](betfair/index.md)
 * [Betfair SportsBook InPlay](betfair/sb_inplay.md)
 * [Betfair SportsBook Upcoming](betfair/sb_upcoming.md)
 * [Betfair SportsBook Event](betfair/sb_event.md)

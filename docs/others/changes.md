@@ -1,5 +1,8 @@
 # Changes
 
+### 2019-01-08
+  * add matching_dir and odds_update in /event/odds and /event/odds/summary
+
 ### 2019-01-05
   * more bookmaker (CashPoint)
 
