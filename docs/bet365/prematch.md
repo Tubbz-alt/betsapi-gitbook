@@ -18,3 +18,9 @@ rawJSON | No | raw text/b365data JSON data
 
  * <a href="../samples/bet365_prematch_odds.json" target="_blank">bet365_prematch_odds.json</a>
  * <a href="../samples/bet365_prematch_odds.rawJSON.json" target="_blank">bet365_prematch_odds.rawJSON.json</a>
+
+## FAQ
+
+### "Team Total Goals" is missing?
+
+Actually we failed to parse that part from the HTML, so you should use &rawJSON=1 to get the odds (or parse it yourself with &raw=1)

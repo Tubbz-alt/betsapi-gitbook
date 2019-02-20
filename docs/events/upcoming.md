@@ -17,7 +17,7 @@ league_id | No | useful when you want only one league
 team_id | No | useful when you want only one team
 cc | No | Eg: 'co' for Colombia (R-Countries)
 day | No | format YYYYMMDD, eg: 20161201
-page | No | R-Pager, max 1000 (max 100 on weekend)
+page | No | R-Pager, max 100
 
 ## HTTP Response
 
@@ -30,6 +30,9 @@ It's unix epoch. [Convert from epoch to human readable date](https://www.epochco
 The timezone is UTC.
 
 ## Changes
+
+#### 2019-02-20
+  * due to SQL LIMIT performance issue, we only allow max page=100 on all time. please use 'day=' or 'league_id=' to get history data.
 
 #### 2018-09-01
   * due to SQL LIMIT performance issue, we only allow max page=100 on weekend. Sorry
