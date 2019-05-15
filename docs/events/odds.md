@@ -12,7 +12,7 @@
 Parameter | Required? | Description
 --------- | ------- | -----------
 event_id | Yes | Event ID you get from events/*
-source | No | Possible value: bet365, 10bet, ladbrokes, williamhill, betclic, pinnaclesports, planetwin365, ysb88, 188bet, unibet, bwin, betfair, betfred, cloudbet, betsson, betdaq, paddypower, sbobet, titanbet, betathome, dafabet, marathonbet, betvictor, intertops, betredkings, interwetten, betway, 1xbet, nitrogensports, winner, betregal, skybet, marsbet, cashpoint. defaults to bet365.
+source | No | Possible value: bet365, 10bet, ladbrokes, williamhill, betclic, pinnaclesports, planetwin365, ysb88, 188bet, unibet, bwin, betfair, betfred, cloudbet, betsson, betdaq, paddypower, sbobet, titanbet, betathome, dafabet, marathonbet, betvictor, intertops, interwetten, betway, 1xbet, nitrogensports, winner, betregal, skybet, marsbet, cashpoint. defaults to bet365.
 since_time | No | Integer. add_time will be >= $since_time in results. Faster to get only updates.
 odds_market | No | String. if you only need one (or few) market to save time/bandwidth, pass the related string like &odds_market=1 or &odds_market=2,3 etc.
 

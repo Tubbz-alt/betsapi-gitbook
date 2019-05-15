@@ -69,7 +69,7 @@
   * add Betsson Result
 
 ### 2017-11-04
-  * more bookmakers (marathonbet, betvictor, intertops, betredkings, interwetten)
+  * more bookmakers (marathonbet, betvictor, intertops, interwetten)
 
 ### 2017-10-24
   * League TopList API
