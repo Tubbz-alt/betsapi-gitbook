@@ -77,7 +77,6 @@ DafaBet | Yes/No | Yes/No | Part-of/No
 Marathonbet | No/Yes | No/Yes | No/No
 BetVictor | Yes/Yes | Yes/Yes | No/No
 Intertops | No/Yes | No/Yes | No/Part-of
-BetRedKings | No/No | No/No | No/No
 Interwetten | No/Yes | No/Yes | No/Part-of
 1XBet | Yes/Yes | Yes/Yes | No/No
 Nitrogen | No/Yes | No/Yes | No/Part-of

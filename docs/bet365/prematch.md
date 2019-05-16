@@ -19,9 +19,9 @@ raw | No | raw Bet365 body without parsing
 
 ## FAQ
 
-### "Team Total Goals" is missing?
+### Something is missing?
 
-Actually we failed to parse that part from the HTML, so you should use &rawJSON=1 to get the odds (or parse it yourself with &raw=1)
+You can always use &raw=1 and parse the HTML yourself.
 
 ## Changes
 
