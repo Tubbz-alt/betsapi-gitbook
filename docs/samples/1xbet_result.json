@@ -1,0 +1,496 @@
+{
+    "success": 1,
+    "results": [
+        {
+            "id": "1568061",
+            "sport_id": "1",
+            "time": "1557255600",
+            "time_status": "3",
+            "league": {
+                "id": "1040",
+                "name": "UEFA Champions League",
+                "cc": "eu"
+            },
+            "home": {
+                "id": "23451",
+                "name": "Liverpool",
+                "image_id": "44",
+                "cc": "gb"
+            },
+            "away": {
+                "id": "1211",
+                "name": "Barcelona",
+                "image_id": "2817",
+                "cc": "es"
+            },
+            "ss": "4-0",
+            "scores": {
+                "2": {
+                    "home": "4",
+                    "away": "0"
+                },
+                "1": {
+                    "home": "1",
+                    "away": "0"
+                }
+            },
+            "stats": {
+                "attacks": [
+                    "115",
+                    "119"
+                ],
+                "ball_safe": [
+                    "102",
+                    "111"
+                ],
+                "corners": [
+                    "7",
+                    "6"
+                ],
+                "corner_f": [
+                    "7",
+                    "6"
+                ],
+                "corner_h": [
+                    "4",
+                    "4"
+                ],
+                "dangerous_attacks": [
+                    "50",
+                    "41"
+                ],
+                "fouls": [
+                    "12",
+                    "9"
+                ],
+                "freekicks": [
+                    "11",
+                    "13"
+                ],
+                "goalattempts": [
+                    "11",
+                    "7"
+                ],
+                "goalkicks": [
+                    "4",
+                    "3"
+                ],
+                "goals": [
+                    "4",
+                    "0"
+                ],
+                "injuries": [
+                    "4",
+                    "1"
+                ],
+                "offsides": [
+                    "1",
+                    "2"
+                ],
+                "off_target": [
+                    "6",
+                    "3"
+                ],
+                "on_target": [
+                    "7",
+                    "5"
+                ],
+                "penalties": [
+                    "0",
+                    "0"
+                ],
+                "possession_rt": [
+                    "48",
+                    "52"
+                ],
+                "redcards": [
+                    "0",
+                    "0"
+                ],
+                "saves": [
+                    "5",
+                    "3"
+                ],
+                "shots_blocked": [
+                    "2",
+                    "1"
+                ],
+                "substitutions": [
+                    "3",
+                    "3"
+                ],
+                "throwins": [
+                    "15",
+                    "27"
+                ],
+                "yellowcards": [
+                    "2",
+                    "3"
+                ],
+                "yellowred_cards": [
+                    "0",
+                    "0"
+                ]
+            },
+            "extra": {
+                "away_manager": {
+                    "id": "52991",
+                    "name": "Ernesto Valverde",
+                    "cc": "es"
+                },
+                "home_manager": {
+                    "id": "52829",
+                    "name": "Jurgen Klopp",
+                    "cc": "de"
+                },
+                "length": "90",
+                "home_pos": "2",
+                "away_pos": "1",
+                "referee": {
+                    "id": "52444",
+                    "name": "Cuneyt Cakir",
+                    "cc": "tr"
+                },
+                "stadium": "Anfield",
+                "stadium_data": {
+                    "id": "579",
+                    "name": "Anfield",
+                    "city": "Liverpool",
+                    "country": "England",
+                    "capacity": "54074",
+                    "googlecoords": "53.430622,-2.960919"
+                },
+                "round": "2"
+            },
+            "has_lineup": 1,
+            "events": [
+                {
+                    "id": "53390766",
+                    "text": "2' - 1st Corner - Liverpool"
+                },
+                {
+                    "id": "53390848",
+                    "text": "6' - 2nd Corner - Liverpool"
+                },
+                {
+                    "id": "53390881",
+                    "text": "7' - 1st Goal - Origi  (Liverpool) - Shot"
+                },
+                {
+                    "id": "53390913",
+                    "text": "9' - 3rd Corner - Barcelona"
+                },
+                {
+                    "id": "53390970",
+                    "text": "0:0 Cards 00:00 - 09:59"
+                },
+                {
+                    "id": "53390971",
+                    "text": "2:1 Corners 00:00 - 09:59"
+                },
+                {
+                    "id": "53390972",
+                    "text": "1:0 Goals 00:00 - 09:59"
+                },
+                {
+                    "id": "53390973",
+                    "text": "1:3 Throw Ins 00:00 - 09:59"
+                },
+                {
+                    "id": "53390974",
+                    "text": "0:0 Goal Kicks 00:00 - 09:59"
+                },
+                {
+                    "id": "53390975",
+                    "text": "0:0 Free Kicks 00:00 - 09:59"
+                },
+                {
+                    "id": "53390980",
+                    "text": "11' - 1st Yellow Card - Fabinho (Liverpool)"
+                },
+                {
+                    "id": "53391051",
+                    "text": "15' - 4th Corner - Barcelona"
+                },
+                {
+                    "id": "53391130",
+                    "text": "18' - 5th Corner - Barcelona"
+                },
+                {
+                    "id": "53391131",
+                    "text": "18' - Race to 3 Corners - Barcelona"
+                },
+                {
+                    "id": "53391171",
+                    "text": "1:0 Cards 10:00 - 19:59"
+                },
+                {
+                    "id": "53391172",
+                    "text": "0:2 Corners 10:00 - 19:59"
+                },
+                {
+                    "id": "53391173",
+                    "text": "0:0 Goals 10:00 - 19:59"
+                },
+                {
+                    "id": "53391174",
+                    "text": "3:2 Throw Ins 10:00 - 19:59"
+                },
+                {
+                    "id": "53391175",
+                    "text": "2:1 Goal Kicks 10:00 - 19:59"
+                },
+                {
+                    "id": "53391176",
+                    "text": "0:2 Free Kicks 10:00 - 19:59"
+                },
+                {
+                    "id": "53391314",
+                    "text": "29' - 6th Corner - Barcelona"
+                },
+                {
+                    "id": "53391358",
+                    "text": "0:0 Cards 20:00 - 29:59"
+                },
+                {
+                    "id": "53391359",
+                    "text": "0:1 Corners 20:00 - 29:59"
+                },
+                {
+                    "id": "53391360",
+                    "text": "0:0 Goals 20:00 - 29:59"
+                },
+                {
+                    "id": "53391361",
+                    "text": "2:4 Throw Ins 20:00 - 29:59"
+                },
+                {
+                    "id": "53391362",
+                    "text": "0:0 Goal Kicks 20:00 - 29:59"
+                },
+                {
+                    "id": "53391363",
+                    "text": "1:3 Free Kicks 20:00 - 29:59"
+                },
+                {
+                    "id": "53391545",
+                    "text": "0:0 Cards 30:00 - 39:59"
+                },
+                {
+                    "id": "53391546",
+                    "text": "0:0 Corners 30:00 - 39:59"
+                },
+                {
+                    "id": "53391547",
+                    "text": "0:0 Goals 30:00 - 39:59"
+                },
+                {
+                    "id": "53391548",
+                    "text": "1:1 Throw Ins 30:00 - 39:59"
+                },
+                {
+                    "id": "53391549",
+                    "text": "0:0 Goal Kicks 30:00 - 39:59"
+                },
+                {
+                    "id": "53391550",
+                    "text": "1:1 Free Kicks 30:00 - 39:59"
+                },
+                {
+                    "id": "53391601",
+                    "text": "44' - 7th Corner - Liverpool"
+                },
+                {
+                    "id": "53391649",
+                    "text": "45+1' - 2nd Yellow Card - Busquets (Barcelona)"
+                },
+                {
+                    "id": "53391685",
+                    "text": "45+4' - 8th Corner - Liverpool"
+                },
+                {
+                    "id": "53391702",
+                    "text": "Score at the end of First Half 1-0"
+                },
+                {
+                    "id": "53391911",
+                    "text": "46' - Substitution - Wijnaldum for Robertson (Liverpool)"
+                },
+                {
+                    "id": "53391937",
+                    "text": "47' - 9th Corner - Liverpool"
+                },
+                {
+                    "id": "53391938",
+                    "text": "47' - Race to 5 Corners - Liverpool"
+                },
+                {
+                    "id": "53391993",
+                    "text": "50' - 10th Corner - Liverpool"
+                },
+                {
+                    "id": "53391998",
+                    "text": "0:1 Cards 40:00 - 49:59"
+                },
+                {
+                    "id": "53391999",
+                    "text": "4:0 Corners 40:00 - 49:59"
+                },
+                {
+                    "id": "53392000",
+                    "text": "0:0 Goals 40:00 - 49:59"
+                },
+                {
+                    "id": "53392001",
+                    "text": "3:6 Throw Ins 40:00 - 49:59"
+                },
+                {
+                    "id": "53392002",
+                    "text": "1:0 Goal Kicks 40:00 - 49:59"
+                },
+                {
+                    "id": "53392003",
+                    "text": "1:1 Free Kicks 40:00 - 49:59"
+                },
+                {
+                    "id": "53392035",
+                    "text": "53' - 3rd Yellow Card - Rakitic (Barcelona)"
+                },
+                {
+                    "id": "53392049",
+                    "text": "54' - 2nd Goal - Wijnaldum  (Liverpool) - Shot"
+                },
+                {
+                    "id": "53392074",
+                    "text": "56' - 3rd Goal - Wijnaldum  (Liverpool) - Header"
+                },
+                {
+                    "id": "53392122",
+                    "text": "60' - Substitution - Nelson Semedo for Coutinho (Barcelona)"
+                },
+                {
+                    "id": "53392133",
+                    "text": "0:1 Cards 50:00 - 59:59"
+                },
+                {
+                    "id": "53392134",
+                    "text": "0:0 Corners 50:00 - 59:59"
+                },
+                {
+                    "id": "53392135",
+                    "text": "2:0 Goals 50:00 - 59:59"
+                },
+                {
+                    "id": "53392136",
+                    "text": "2:2 Throw Ins 50:00 - 59:59"
+                },
+                {
+                    "id": "53392137",
+                    "text": "0:0 Goal Kicks 50:00 - 59:59"
+                },
+                {
+                    "id": "53392138",
+                    "text": "1:1 Free Kicks 50:00 - 59:59"
+                },
+                {
+                    "id": "53392198",
+                    "text": "66' - 4th Yellow Card - Matip (Liverpool)"
+                },
+                {
+                    "id": "53392212",
+                    "text": "68' - 11th Corner - Barcelona"
+                },
+                {
+                    "id": "53392219",
+                    "text": "68' - 12th Corner - Barcelona"
+                },
+                {
+                    "id": "53392247",
+                    "text": "1:0 Cards 60:00 - 69:59"
+                },
+                {
+                    "id": "53392248",
+                    "text": "0:2 Corners 60:00 - 69:59"
+                },
+                {
+                    "id": "53392249",
+                    "text": "0:0 Goals 60:00 - 69:59"
+                },
+                {
+                    "id": "53392250",
+                    "text": "3:5 Throw Ins 60:00 - 69:59"
+                },
+                {
+                    "id": "53392251",
+                    "text": "1:0 Goal Kicks 60:00 - 69:59"
+                },
+                {
+                    "id": "53392252",
+                    "text": "1:3 Free Kicks 60:00 - 69:59"
+                },
+                {
+                    "id": "53392288",
+                    "text": "74' - Substitution - Arthur for Vidal (Barcelona)"
+                },
+                {
+                    "id": "53392298",
+                    "text": "75' - 5th Yellow Card - Nelson Semedo (Barcelona)"
+                },
+                {
+                    "id": "53392327",
+                    "text": "79' - 13th Corner - Liverpool"
+                },
+                {
+                    "id": "53392328",
+                    "text": "79' - Race to 7 Corners - Liverpool"
+                },
+                {
+                    "id": "53392330",
+                    "text": "79' - 4th Goal - Origi  (Liverpool) - Shot"
+                },
+                {
+                    "id": "53392342",
+                    "text": "80' - Substitution - Malcom for Rakitic (Barcelona)"
+                },
+                {
+                    "id": "53392346",
+                    "text": "0:1 Cards 70:00 - 79:59"
+                },
+                {
+                    "id": "53392347",
+                    "text": "1:0 Corners 70:00 - 79:59"
+                },
+                {
+                    "id": "53392348",
+                    "text": "1:0 Goals 70:00 - 79:59"
+                },
+                {
+                    "id": "53392349",
+                    "text": "0:3 Throw Ins 70:00 - 79:59"
+                },
+                {
+                    "id": "53392350",
+                    "text": "0:1 Goal Kicks 70:00 - 79:59"
+                },
+                {
+                    "id": "53392351",
+                    "text": "2:1 Free Kicks 70:00 - 79:59"
+                },
+                {
+                    "id": "53392413",
+                    "text": "85' - Substitution - Gomez for Origi (Liverpool)"
+                },
+                {
+                    "id": "53392426",
+                    "text": "90' - Substitution - Sturridge for Shaqiri (Liverpool)"
+                },
+                {
+                    "id": "53392462",
+                    "text": "Score at the end of Full Time 4-0"
+                }
+            ],
+            "bet365_id": "80171828",
+            "matching_dir": "1"
+        }
+    ]
+}

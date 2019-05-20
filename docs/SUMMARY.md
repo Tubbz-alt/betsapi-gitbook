@@ -66,6 +66,13 @@
 * [Sbobet Event](sbobet/event.md)
 * [Sbobet Result](sbobet/result.md)
 
+### 1xBet API
+
+* [1xBet InPlay](1xbet/inplay.md)
+* [1xBet Upcoming](1xbet/upcoming.md)
+* [1xBet Event](1xbet/event.md)
+* [1xBet Result](1xbet/result.md)
+
 ### Betway API
 
 * [Betway InPlay](betway/inplay.md)
