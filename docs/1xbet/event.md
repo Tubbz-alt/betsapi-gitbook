@@ -17,3 +17,5 @@ event_id | Yes | Event ID you get from /1xbet/inplay or upcoming
 ## HTTP Response
 
 <a href="../samples/1xbet_event.json" target="_blank">1xbet_event.json</a>
+
+<a href="../samples/1xbet_betsNames_full_en.js" target="_blank">betsNames.js</a>

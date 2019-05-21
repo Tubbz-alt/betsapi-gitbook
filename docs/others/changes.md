@@ -1,5 +1,8 @@
 # Changes
 
+### 2019-05-21
+  * add 1xBet API
+
 ### 2019-01-08
   * add matching_dir and odds_update in /event/odds and /event/odds/summary
 

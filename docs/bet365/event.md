@@ -11,7 +11,7 @@
 Parameter | Required? | Description
 --------- | ------- | -----------
 FI | Yes | FI from Bet365 Inplay
-stats | No | extra stats info (only provided for Soccer, Basketball, Cricket and Tennis)
+stats | No | extra stats info (only provided for Soccer, Basketball, Cricket, Baseball and Tennis)
 lineup | No | lineup info (only provided for Cricket right now)
 raw | No | raw Bet365 body without parsing
 
