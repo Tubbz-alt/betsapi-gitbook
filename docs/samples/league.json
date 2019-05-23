@@ -3,7 +3,7 @@
     "pager": {
         "page": 1,
         "per_page": 100,
-        "total": 1276
+        "total": 1665
     },
     "results": [
         {
@@ -50,7 +50,7 @@
         },
         {
             "id": "7",
-            "name": "USA USL Pro",
+            "name": "USA USL Championship",
             "cc": "us",
             "has_leaguetable": 1,
             "has_toplist": 0
@@ -59,7 +59,7 @@
             "id": "8",
             "name": "Australia ACT Premier Pathway League",
             "cc": "au",
-            "has_leaguetable": 0,
+            "has_leaguetable": 1,
             "has_toplist": 0
         },
         {
@@ -73,7 +73,7 @@
             "id": "10",
             "name": "Hong Kong Premier League",
             "cc": "hk",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -108,21 +108,21 @@
             "id": "16",
             "name": "Australia Victoria Premier League",
             "cc": "au",
-            "has_leaguetable": 0,
+            "has_leaguetable": 1,
             "has_toplist": 0
         },
         {
             "id": "17",
             "name": "UEFA Champions League Women",
             "cc": "eu",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "19",
             "name": "Australia Queensland Premier League",
             "cc": "au",
-            "has_leaguetable": 0,
+            "has_leaguetable": 1,
             "has_toplist": 0
         },
         {
@@ -178,7 +178,7 @@
             "id": "28",
             "name": "Germany Bundesliga U19",
             "cc": "de",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -192,14 +192,14 @@
             "id": "30",
             "name": "France U19 League",
             "cc": "fr",
-            "has_leaguetable": 0,
+            "has_leaguetable": 1,
             "has_toplist": 0
         },
         {
             "id": "31",
             "name": "Poland III Liga",
             "cc": "pl",
-            "has_leaguetable": 0,
+            "has_leaguetable": 1,
             "has_toplist": 0
         },
         {
@@ -234,7 +234,7 @@
             "id": "36",
             "name": "Thailand Division 2",
             "cc": "th",
-            "has_leaguetable": 0,
+            "has_leaguetable": 1,
             "has_toplist": 0
         },
         {
@@ -248,42 +248,42 @@
             "id": "38",
             "name": "Spain Tercera Group 15",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "39",
             "name": "Spain Tercera Group 4",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "40",
             "name": "Spain Tercera Group 17",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "41",
             "name": "Spain Tercera Group 6",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "42",
             "name": "Spain Tercera Group 7",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "43",
             "name": "Germany Oberliga Hamburg",
             "cc": "de",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -297,21 +297,21 @@
             "id": "45",
             "name": "Spain Tercera Group 10",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "46",
             "name": "Spain Tercera Group 14",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "47",
             "name": "Spain Tercera Group 9",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -346,28 +346,28 @@
             "id": "52",
             "name": "Spain Tercera Group 1",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "53",
             "name": "Spain Tercera Group 16",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "54",
             "name": "Spain Tercera Group 18",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
             "id": "55",
             "name": "Spain Tercera Group 2",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -395,7 +395,7 @@
             "id": "59",
             "name": "South Korea K-League Classic",
             "cc": "kr",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -423,8 +423,8 @@
             "id": "63",
             "name": "Portugal Segunda Liga",
             "cc": "pt",
-            "has_leaguetable": 1,
-            "has_toplist": 1
+            "has_leaguetable": 0,
+            "has_toplist": 0
         },
         {
             "id": "64",
@@ -451,7 +451,7 @@
             "id": "67",
             "name": "Spain Tercera Group 5",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -465,7 +465,7 @@
             "id": "69",
             "name": "Spain Tercera Group 12",
             "cc": "es",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {
@@ -493,8 +493,8 @@
             "id": "73",
             "name": "Germany Regionalliga North East",
             "cc": "de",
-            "has_leaguetable": 1,
-            "has_toplist": 1
+            "has_leaguetable": 0,
+            "has_toplist": 0
         },
         {
             "id": "74",
@@ -556,7 +556,7 @@
             "id": "82",
             "name": "Holland Tweede Divisie",
             "cc": "nl",
-            "has_leaguetable": 0,
+            "has_leaguetable": 1,
             "has_toplist": 0
         },
         {
@@ -598,8 +598,8 @@
             "id": "88",
             "name": "Germany Regionalliga North",
             "cc": "de",
-            "has_leaguetable": 1,
-            "has_toplist": 1
+            "has_leaguetable": 0,
+            "has_toplist": 0
         },
         {
             "id": "89",
@@ -640,8 +640,8 @@
             "id": "94",
             "name": "England Premier League",
             "cc": "gb",
-            "has_leaguetable": 1,
-            "has_toplist": 1
+            "has_leaguetable": 0,
+            "has_toplist": 0
         },
         {
             "id": "95",
@@ -661,8 +661,8 @@
             "id": "97",
             "name": "Holland Eerste Divisie",
             "cc": "nl",
-            "has_leaguetable": 1,
-            "has_toplist": 1
+            "has_leaguetable": 0,
+            "has_toplist": 0
         },
         {
             "id": "98",
@@ -689,7 +689,7 @@
             "id": "101",
             "name": "Germany Oberliga Niedersachsen",
             "cc": "de",
-            "has_leaguetable": 1,
+            "has_leaguetable": 0,
             "has_toplist": 0
         },
         {

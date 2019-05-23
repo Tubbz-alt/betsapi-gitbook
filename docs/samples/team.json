@@ -3,32 +3,34 @@
     "pager": {
         "page": 1,
         "per_page": 100,
-        "total": 14037
+        "total": 29084
     },
     "results": [
         {
             "id": "1",
             "name": "Dorados",
             "cc": "mx",
-            "image_id": "5291"
+            "image_id": "5291",
+            "has_squad": 1
         },
         {
             "id": "2",
             "name": "Coras Tepic",
             "cc": "mx",
-            "image_id": "159944"
+            "image_id": "159944",
+            "has_squad": 1
         },
         {
             "id": "3",
             "name": "Bankstown Berries",
             "cc": "au",
-            "image_id": null
+            "image_id": "0"
         },
         {
             "id": "4",
             "name": "St George",
             "cc": "et",
-            "image_id": "138216"
+            "image_id": "94787"
         },
         {
             "id": "5",
@@ -40,13 +42,14 @@
             "id": "6",
             "name": "Bankstown City Lions FC",
             "cc": "au",
-            "image_id": null
+            "image_id": "171998"
         },
         {
             "id": "7",
             "name": "Marconi Stallions",
             "cc": "au",
-            "image_id": "2941"
+            "image_id": "2941",
+            "has_squad": 1
         },
         {
             "id": "8",
@@ -58,7 +61,7 @@
             "id": "9",
             "name": "Northern Tigers",
             "cc": "au",
-            "image_id": null
+            "image_id": "0"
         },
         {
             "id": "10",
@@ -70,7 +73,7 @@
             "id": "13",
             "name": "Apia L Tigers U20",
             "cc": "au",
-            "image_id": null
+            "image_id": "64145"
         },
         {
             "id": "14",
@@ -81,14 +84,14 @@
         {
             "id": "15",
             "name": "Football West NTC U19 Women",
-            "cc": null,
+            "cc": "au",
             "image_id": null
         },
         {
             "id": "17",
             "name": "BA FC",
             "cc": "fj",
-            "image_id": null
+            "image_id": "86732"
         },
         {
             "id": "18",
@@ -100,7 +103,8 @@
             "id": "19",
             "name": "Sacramento Republic",
             "cc": "us",
-            "image_id": "153498"
+            "image_id": "153498",
+            "has_squad": 1
         },
         {
             "id": "20",
@@ -112,79 +116,87 @@
             "id": "21",
             "name": "Canberra FC",
             "cc": "au",
-            "image_id": "91568"
+            "image_id": "91568",
+            "has_squad": 1
         },
         {
             "id": "22",
             "name": "Belconnen United",
             "cc": "au",
-            "image_id": "91564"
+            "image_id": "91564",
+            "has_squad": 1
         },
         {
             "id": "23",
             "name": "Canberra Olympic",
             "cc": "au",
-            "image_id": "91570"
+            "image_id": "91570",
+            "has_squad": 1
         },
         {
             "id": "24",
             "name": "Cooma Tigers",
             "cc": "au",
-            "image_id": "91572"
+            "image_id": "91572",
+            "has_squad": 1
         },
         {
             "id": "25",
             "name": "Souths United NPL Women",
             "cc": "au",
-            "image_id": null
+            "image_id": "334581"
         },
         {
             "id": "26",
             "name": "Olympic FC NPL Women",
-            "cc": null,
-            "image_id": null
+            "cc": "au",
+            "image_id": "272447"
         },
         {
             "id": "27",
             "name": "Sydney United 58",
             "cc": "au",
-            "image_id": "2939"
+            "image_id": "2939",
+            "has_squad": 1
         },
         {
             "id": "28",
             "name": "Blacktown City",
             "cc": "au",
-            "image_id": "92204"
+            "image_id": "92204",
+            "has_squad": 1
         },
         {
             "id": "29",
             "name": "South China AA",
             "cc": "hk",
-            "image_id": "35887"
+            "image_id": "35887",
+            "has_squad": 1
         },
         {
             "id": "30",
             "name": "Hong Kong Sapling",
             "cc": null,
-            "image_id": "278209"
+            "image_id": "278209",
+            "has_squad": 1
         },
         {
             "id": "31",
             "name": "Sydney University Women",
-            "cc": null,
+            "cc": "au",
             "image_id": null
         },
         {
             "id": "32",
             "name": "North West Sydney Women",
-            "cc": null,
+            "cc": "au",
             "image_id": null
         },
         {
             "id": "33",
             "name": "Queens Park Women",
-            "cc": null,
-            "image_id": null
+            "cc": "au",
+            "image_id": "339343"
         },
         {
             "id": "34",
@@ -195,74 +207,84 @@
         {
             "id": "35",
             "name": "Moldova Beach",
-            "cc": null,
-            "image_id": null
+            "cc": "md",
+            "image_id": "173564"
         },
         {
             "id": "36",
             "name": "Czech Republic Beach",
-            "cc": null,
-            "image_id": null
+            "cc": "cz",
+            "image_id": "173554"
         },
         {
             "id": "37",
             "name": "Avispa Fukuoka",
             "cc": "jp",
-            "image_id": "3143"
+            "image_id": "3143",
+            "has_squad": 1
         },
         {
             "id": "38",
             "name": "Kagoshima United",
             "cc": "jp",
-            "image_id": "162632"
+            "image_id": "162632",
+            "has_squad": 1
         },
         {
             "id": "41",
             "name": "Qingdao Jonoon",
             "cc": "cn",
-            "image_id": "34695"
+            "image_id": "34695",
+            "has_squad": 1
         },
         {
             "id": "42",
             "name": "Guizhou Zhicheng",
             "cc": "cn",
-            "image_id": "50017"
+            "image_id": "50017",
+            "has_squad": 1
         },
         {
             "id": "43",
             "name": "South Melbourne",
             "cc": "au",
-            "image_id": "2944"
+            "image_id": "2944",
+            "has_squad": 1
         },
         {
             "id": "44",
             "name": "Hume City",
             "cc": "au",
-            "image_id": "92927"
+            "image_id": "92927",
+            "has_squad": 1
         },
         {
             "id": "45",
             "name": "PK-35 Vantaa Women",
             "cc": "fi",
-            "image_id": "53385"
+            "image_id": "53385",
+            "has_squad": 1
         },
         {
             "id": "46",
             "name": "Avaldsnes Women",
             "cc": "no",
-            "image_id": "37587"
+            "image_id": "37587",
+            "has_squad": 1
         },
         {
             "id": "49",
             "name": "Brisbane Strikers",
             "cc": "au",
-            "image_id": "2936"
+            "image_id": "2936",
+            "has_squad": 1
         },
         {
             "id": "50",
             "name": "Redlands United",
             "cc": "au",
-            "image_id": "91934"
+            "image_id": "91934",
+            "has_squad": 1
         },
         {
             "id": "51",
@@ -280,13 +302,15 @@
             "id": "53",
             "name": "Viktoria Zizkov",
             "cc": "cz",
-            "image_id": "2211"
+            "image_id": "2211",
+            "has_squad": 1
         },
         {
             "id": "54",
             "name": "MFK Vitkovice",
             "cc": "cz",
-            "image_id": "2235"
+            "image_id": "2235",
+            "has_squad": 1
         },
         {
             "id": "55",
@@ -298,13 +322,15 @@
             "id": "56",
             "name": "Kraluv Dvur",
             "cc": "cz",
-            "image_id": "25418"
+            "image_id": "25418",
+            "has_squad": 1
         },
         {
             "id": "57",
             "name": "SK Prevysov",
             "cc": "cz",
-            "image_id": "53086"
+            "image_id": "53086",
+            "has_squad": 1
         },
         {
             "id": "58",
@@ -322,43 +348,48 @@
             "id": "60",
             "name": "Spartak Hulin",
             "cc": "cz",
-            "image_id": "43658"
+            "image_id": "43658",
+            "has_squad": 1
         },
         {
             "id": "61",
             "name": "SK Unicov",
             "cc": "cz",
-            "image_id": "25463"
+            "image_id": "25463",
+            "has_squad": 1
         },
         {
             "id": "62",
             "name": "Hlucin",
             "cc": "cz",
-            "image_id": "5109"
+            "image_id": "5109",
+            "has_squad": 1
         },
         {
             "id": "63",
             "name": "Opava B",
             "cc": "cz",
-            "image_id": null
+            "image_id": "388842"
         },
         {
             "id": "64",
             "name": "Velke Karlovice",
             "cc": null,
-            "image_id": null
+            "image_id": "0"
         },
         {
             "id": "65",
             "name": "Slavia Prague U21",
             "cc": "cz",
-            "image_id": "105831"
+            "image_id": "105831",
+            "has_squad": 1
         },
         {
             "id": "66",
             "name": "Viktoria Plzen U21",
             "cc": "cz",
-            "image_id": "105805"
+            "image_id": "105805",
+            "has_squad": 1
         },
         {
             "id": "67",
@@ -393,92 +424,104 @@
         {
             "id": "72",
             "name": "Tatran Krasno",
-            "cc": null,
-            "image_id": null
+            "cc": "sk",
+            "image_id": "219112"
         },
         {
             "id": "73",
             "name": "Myanmar U19",
-            "cc": null,
-            "image_id": null
+            "cc": "mm",
+            "image_id": "22541",
+            "has_squad": 1
         },
         {
             "id": "74",
             "name": "Thailand U19",
-            "cc": null,
-            "image_id": "22565"
+            "cc": "th",
+            "image_id": "22565",
+            "has_squad": 1
         },
         {
             "id": "77",
             "name": "Hradec Kralove U21",
             "cc": "cz",
-            "image_id": "105801"
+            "image_id": "105801",
+            "has_squad": 1
         },
         {
             "id": "78",
             "name": "Mlada Boleslav U21",
             "cc": "cz",
-            "image_id": "105817"
+            "image_id": "105817",
+            "has_squad": 1
         },
         {
             "id": "79",
             "name": "Kyoto Sanga FC",
             "cc": "jp",
-            "image_id": "3149"
+            "image_id": "3149",
+            "has_squad": 1
         },
         {
             "id": "80",
             "name": "BO Kakogawa",
-            "cc": null,
-            "image_id": "281401"
+            "cc": "jp",
+            "image_id": "282353"
         },
         {
             "id": "81",
             "name": "Rot Weiss Essen U19",
             "cc": "de",
-            "image_id": "74431"
+            "image_id": "74431",
+            "has_squad": 1
         },
         {
             "id": "82",
             "name": "Rot-Weiss Oberhausen U19",
             "cc": "de",
-            "image_id": "52883"
+            "image_id": "52883",
+            "has_squad": 1
         },
         {
             "id": "83",
             "name": "Gresik United",
             "cc": "id",
-            "image_id": "64285"
+            "image_id": "64285",
+            "has_squad": 1
         },
         {
             "id": "84",
             "name": "Semen Padang",
             "cc": "id",
-            "image_id": "86066"
+            "image_id": "86066",
+            "has_squad": 1
         },
         {
             "id": "85",
             "name": "Monaco U19",
             "cc": "fr",
-            "image_id": "174568"
+            "image_id": "174568",
+            "has_squad": 1
         },
         {
             "id": "86",
             "name": "St Etienne U19",
             "cc": "fr",
-            "image_id": null
+            "image_id": "0"
         },
         {
             "id": "87",
             "name": "Lechia Tomaszow Mazowiecki",
             "cc": "pl",
-            "image_id": "109831"
+            "image_id": "109831",
+            "has_squad": 1
         },
         {
             "id": "88",
             "name": "Widzew Lodz",
             "cc": "pl",
-            "image_id": "3115"
+            "image_id": "3115",
+            "has_squad": 1
         },
         {
             "id": "89",
@@ -489,7 +532,7 @@
         {
             "id": "90",
             "name": "RoPo",
-            "cc": null,
+            "cc": "fi",
             "image_id": null
         },
         {
@@ -520,25 +563,25 @@
             "id": "95",
             "name": "GOSiR Piaseczno Women",
             "cc": "pl",
-            "image_id": null
+            "image_id": "279117"
         },
         {
             "id": "96",
             "name": "AZS PWSZ Walbrzych Women",
             "cc": "pl",
-            "image_id": null
+            "image_id": "0"
         },
         {
             "id": "97",
             "name": "Geylang International II",
             "cc": null,
-            "image_id": null
+            "image_id": "366050"
         },
         {
             "id": "98",
             "name": "Warriors FC II",
             "cc": "sg",
-            "image_id": null
+            "image_id": "366044"
         },
         {
             "id": "99",
@@ -550,19 +593,19 @@
             "id": "100",
             "name": "FK Radnicki Valjevo U19",
             "cc": "rs",
-            "image_id": "275131"
+            "image_id": "275129"
         },
         {
             "id": "101",
             "name": "Home United FC II",
             "cc": "sg",
-            "image_id": null
+            "image_id": "366048"
         },
         {
             "id": "102",
             "name": "Hougang Utd FC II",
             "cc": "sg",
-            "image_id": null
+            "image_id": "338603"
         },
         {
             "id": "103",
@@ -573,8 +616,8 @@
         {
             "id": "104",
             "name": "Bangkok University Deffo",
-            "cc": null,
-            "image_id": null
+            "cc": "th",
+            "image_id": "248729"
         },
         {
             "id": "105",
@@ -585,8 +628,8 @@
         {
             "id": "106",
             "name": "TKS Viet Nam Women",
-            "cc": null,
-            "image_id": null
+            "cc": "vn",
+            "image_id": "0"
         },
         {
             "id": "107",
@@ -604,7 +647,7 @@
             "id": "109",
             "name": "Ardoi",
             "cc": "es",
-            "image_id": null
+            "image_id": "369346"
         }
     ]
 }
