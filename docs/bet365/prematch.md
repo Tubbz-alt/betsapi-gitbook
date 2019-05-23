@@ -15,15 +15,21 @@ raw | No | raw Bet365 body without parsing
 
 ## HTTP Response
 
+Note we have 2 formats in the response. Soccer/Basketball/Cricket is parsed from HTML (format=1) while others are from raw data (format=2).
+
  * <a href="../samples/bet365_prematch_odds.json" target="_blank">bet365_prematch_odds.json</a>
+ * <a href="../samples/bet365_prematch_odds.baseball.json" target="_blank">bet365_prematch_odds.baseball.json</a>
 
 ## FAQ
 
 ### Something is missing?
 
-You can always use &raw=1 and parse the HTML yourself.
+You can always use &raw=1 and parse the HTML/data yourself.
 
 ## Changes
+
+### 2019-05-22
+  * JSON structure changes for non-(Soccer|Cricket)
 
 ### 2019-05-08
   * rawJSON is deprecated
