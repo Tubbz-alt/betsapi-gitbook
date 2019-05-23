@@ -12,6 +12,7 @@ Parameter | Required? | Description
 --------- | ------- | -----------
 FI | Yes | Event ID you get from bet365/upcoming
 raw | No | raw Bet365 body without parsing
+parsed | No | parsed structure
 
 ## HTTP Response
 
@@ -19,12 +20,17 @@ Note we have 2 formats in the response. Soccer/Basketball/Cricket is parsed from
 
  * <a href="../samples/bet365_prematch_odds.json" target="_blank">bet365_prematch_odds.json</a>
  * <a href="../samples/bet365_prematch_odds.baseball.json" target="_blank">bet365_prematch_odds.baseball.json</a>
+ * <a href="../samples/bet365_prematch_odds.parsed.json" target="_blank">bet365_prematch_odds.parsed.json</a>
 
 ## FAQ
 
 ### Something is missing?
 
 You can always use &raw=1 and parse the HTML/data yourself.
+
+### I can NOT parse it myself.
+
+You can use &parsed=1 to get a structured JSON
 
 ## Changes
 
