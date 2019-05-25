@@ -62,7 +62,7 @@ WilliamHill | Limited/Yes | No/Yes | No/Part-of
 Betclic | No/Yes | No/Yes | No/Yes
 Pinnacle | No/No | No/No  | No/No
 PlanetWin365 | Yes/Yes | Yes/Yes | Part-of/Part-of
-188Bet | Yes/No | Yes/No | Part-of/No
+188Bet | Yes/Yes | Yes/Yes | Part-of/Part-of
 UniBet | Yes/Yes | Yes/Yes | No/No
 BetFred | No/Yes | No/Yes | No/Part-of
 888Sport | Yes/Yes | Yes/Yes | No/No
