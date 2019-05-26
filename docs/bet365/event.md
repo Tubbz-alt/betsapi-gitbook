@@ -22,5 +22,7 @@ raw | No | raw Bet365 body without parsing
  * <a href="../samples/bet365_event.basketball.json" target="_blank">bet365_event.basketball.json</a>
  * <a href="../samples/bet365_event.cricket.json" target="_blank">bet365_event.cricket.json</a>
  * <a href="../samples/bet365_event.cricket.lineup.json" target="_blank">bet365_event.cricket.lineup.json</a>
+ * <a href="../samples/bet365_event.tennis.json" target="_blank">bet365_event.tennis.json</a>
+ * <a href="../samples/bet365_event.tennis.stats.json" target="_blank">bet365_event.tennis.stats.json</a>
 
 [Fields Explanation](fields.md)
