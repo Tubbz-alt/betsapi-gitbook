@@ -15,7 +15,7 @@ raw | No | raw Bet365 body without parsing
 
 ## HTTP Response
 
-Note raw=1 may return HTML (Soccer/Basketball/Cricket) or structured text (other sports)
+Note raw=1 may return HTML (Soccer/Cricket) or structured text (other sports)
 
  * <a href="../samples/bet365_prematch_odds.json" target="_blank">bet365_prematch_odds.json</a>
  * <a href="../samples/bet365_prematch_odds.baseball.json" target="_blank">bet365_prematch_odds.baseball.json</a>

@@ -1,5 +1,8 @@
 # Changes
 
+### 2019-06-04
+  * Remove winner (winner.co.uk)
+
 ### 2019-05-21
   * add 1xBet API
 
