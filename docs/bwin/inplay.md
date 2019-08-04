@@ -32,3 +32,9 @@ sport_id | Name | sport_id | Name
 6  | Formula 1 | 13 | Golf
 40 | Motorbikes | 10 | Cycling
 9  | Alpine Skiing | 64 | Biathlon
+
+## FAQ
+
+### How can I filter with multiple sports?
+
+pass **sport_id** with `&sport_id[]=4&sport_id[]=7`
