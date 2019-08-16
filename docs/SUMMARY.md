@@ -73,13 +73,6 @@
 * [1xBet Event](1xbet/event.md)
 * [1xBet Result](1xbet/result.md)
 
-### Betway API
-
-* [Betway InPlay](betway/inplay.md)
-* [Betway Upcoming](betway/upcoming.md)
-* [Betway Event](betway/event.md)
-* [Betway Result](betway/result.md)
-
 ### Results API
 
 * [BetFred Result](results/betfred.md)
